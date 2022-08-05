@@ -1,0 +1,2417 @@
+code,name_english,name_french
+11-1011,Admiral,Amiral
+11-1011,Chief Financial Officer,Chef de la direction financière
+11-1011,Chief Operating Officer,Chef de l'exploitation
+11-1011,Governor,Gouverneur
+11-1011,School Superintendent,Surintendant d'école
+11-1011,University President,Président de l'université
+11-1021,Department Store Manager,Directeur de grand magasin
+11-1021,General Superintendent,Surintendant général
+11-1021,Operational Risk Manager,Gestionnaire des risques opérationnels
+11-1021,Radio Station Manager,Gestionnaire de station de radio
+11-1031,City Council Member,Membre du conseil municipal
+11-1031,Senator,Sénateur
+11-1031,Tribal Council Member,Membre du conseil tribal
+11-2011,Advertising Director,Directeur de la publicité
+11-2011,Advertising Executive,Directeur de la publicité
+11-2011,Promotions Director,Directeur des promotions
+11-2021,Internet Marketing Manager,Responsable marketing Internet
+11-2021,Marketing Administrator,Administrateur marketing
+11-2021,Marketing Director,Directeur Marketing
+11-2022,District Sales Manager,Directeur des ventes de district
+11-2022,Export Manager,Gestionnaire d'exportation
+11-2022,Regional Sales Manager,Directeur régional des ventes
+11-2022,Sales Director,Directeur des ventes
+11-2032,Public Affairs Director,Directeur des affaires publiques
+11-2032,Publicity Director,Directeur de la publicité
+11-2033,Donor Relations Manager,Gestionnaire des relations avec les donateurs
+11-2033,Foundation Director,Directeur de la Fondation
+11-2033,Funding Coordinator,Coordonnatrice du financement
+11-2033,Fundraising Director,Directeur de la collecte de fonds
+11-3012,Records and Information Manager,Gestionnaire d'enregistrements et d'informations
+11-3012,Records Management Director,Directeur de la gestion des documents
+11-3012,University Registrar,Registraire de l'Université
+11-3013,Conference Center Manager,Responsable du centre de conférence
+11-3013,Director of University Housing,Directeur du logement universitaire
+11-3013,Stadium Manager,Directeur du stade
+11-3021,Chief Technology Officer,Directeur de la technologie
+11-3021,Information Technology Systems Director,Directeur des systèmes de technologie de l'information
+11-3021,Management Information Systems Director,Directeur des systèmes d'information de gestion
+11-3031,Bank Branch Manager,Directeur de succursale bancaire
+11-3031,Comptroller,Contrôleur
+11-3031,Financial Director,Directeur financier
+11-3051,Manufacturing Director,Directeur de fabrication
+11-3051,Plant Manager,Directeur d'usine
+11-3051,Production Control Manager,Responsable du contrôle de la production
+11-3061,Contracting Manager,Gestionnaire des contrats
+11-3061,Procurement Manager,Gestionnaire des achats
+11-3061,Purchasing Director,Directeur des achats
+11-3071,Distribution Center Manager,Responsable du centre de distribution
+11-3071,Traffic Safety Administrator,Administrateur de la sécurité routière
+11-3071,Warehouse Manager,Gestionnaire d'entrepôt
+11-3111,Compensation Director,Directeur de la rémunération
+11-3111,Employee Benefits Director,Directeur des avantages sociaux
+11-3111,Wage and Salary Administrator,Administrateur des salaires et traitements
+11-3121,Job Analysis Manager,Gestionnaire d'analyse des emplois
+11-3121,Labor Relations Director,Directeur des relations de travail
+11-3121,Personnel Manager,Gestionnaire du personnel
+11-3121,Position Description Manager,Gestionnaire de description de poste
+11-3131,E-Learning Manager,Responsable de l'apprentissage en ligne
+11-3131,Employee Development Director,Directeur du développement des employés
+11-3131,Labor Training Manager,Responsable de la formation de la main-d'œuvre
+11-9013,Animal Husbandry Manager,Responsable de l'élevage
+11-9013,Dairy Farm Manager,Gestionnaire de ferme laitière
+11-9013,Fish Hatchery Manager,Gestionnaire d'écloserie de poissons
+11-9013,Orchard Manager,Gestionnaire de verger
+11-9021,Construction Coordinator,Coordonnatrice de la construction
+11-9021,Construction Superintendent,Surintendant de la construction
+11-9021,General Contractor,Entrepreneur général
+11-9031,Childcare Center Administrator,Administrateur de la garderie
+11-9031,Head Start Director,Directeur du Programme d'aide préscolaire
+11-9031,Preschool Director,Directeur préscolaire
+11-9032,Elementary School Principal,Directeur d'école primaire
+11-9032,High School Principal,Directeur d'école secondaire
+11-9032,Middle School Principal,Directeur d'école intermédiaire
+11-9033,Director of Student Services,Directeur des services aux étudiants
+11-9033,Provost,Prévôt
+11-9033,University Dean,Doyen de l'Université
+11-9033,University Department Chair,Directeur du département universitaire
+11-9041,Engineering Design Manager,Responsable de la conception technique
+11-9041,Global Engineering Manager,Responsable de l'ingénierie mondiale
+11-9041,Mechanical Engineering Director,Directeur du génie mécanique
+11-9051,Banquet Director,Directeur de banquet
+11-9051,Food Service Director,Directeur des services alimentaires
+11-9051,Tavern Operator,Opérateur de taverne
+11-9071,Casino Manager,Gestionnaire de casino
+11-9071,Slot Operations Director,Directeur des opérations des machines à sous
+11-9071,Table Games Manager,Gestionnaire de jeux de table
+11-9072,Amusement Park Manager,Gestionnaire de parc d'attractions
+11-9072,Fitness Club Manager,Gestionnaire de club de fitness
+11-9072,Marina Club Manager,Gestionnaire du Marina Club
+11-9072,Skating Rink Manager,Gestionnaire de patinoire
+11-9072,Ski Resort Manager,Gestionnaire de la station de ski
+11-9081,Bed and Breakfast Innkeeper,B&B / Chambre d'hôtes Innkeeper
+11-9081,Hotel Manager,Directeur de l'hôtel
+11-9081,Innkeeper,Aubergiste
+11-9111,Chief Medical Information Officer,Dirigeant principal de l'information médicale
+11-9111,Clinic Director,Directeur de clinique
+11-9111,Clinical Informatics Director,Directeur de l'informatique clinique
+11-9111,Health Information Services Manager,Gestionnaire des services d'information sur la santé
+11-9111,Hospital Administrator,Administrateur de l'hôpital
+11-9111,Medical Records Administrator,Administrateur des dossiers médicaux
+11-9111,Mental Health Program Manager,Gestionnaire de programme en santé mentale
+11-9121,Agricultural Research Director,Directeur de la recherche agricole
+11-9121,Geophysical Manager,Gestionnaire géophysique
+11-9121,Ocean Program Administrator,Administrateur du programme Océan
+11-9131,Postal Supervisor,Superviseur des postes
+11-9131,Postmaster,Postmaster
+11-9141,Apartment Manager,Gestionnaire d'appartement
+11-9141,Building Rental Manager,Gestionnaire de location d'immeuble
+11-9141,Leasing Property Manager,Gestionnaire immobilier de location
+11-9151,Child Welfare Director,Directeur du bien-être de l'enfance
+11-9151,Family Service Center Director,Directeur du centre de services à la famille
+11-9151,Youth Program Director,Directeur du programme Jeunesse
+11-9161,Disaster Response Director,Directeur des interventions en cas de catastrophe
+11-9161,Emergency Preparedness Coordinator,Coordonnatrice de la préparation aux situations d'urgence
+11-9161,Public Safety Director,Directeur de la sécurité publique
+11-9171,Funeral Home Director,Directeur de la maison funéraire
+11-9179,Day Spa Director,Directeur du spa de jour
+11-9179,Nail Salon Manager,Responsable de salon de manucure
+11-9179,Travel Agency Manager,Responsable d'agence de voyages
+11-9199,Clerk of Court,Greffier du tribunal
+11-9199,Social Science Manager,Gestionnaire des sciences sociales
+11-9199,Utilities Manager,Gestionnaire des utilitaires
+13-1011,Band Manager,Gestionnaire de bande
+13-1011,Literary Agent,Agent littéraire
+13-1011,Theatrical Agent,Agent théâtral
+13-1021,Cotton Broker,Courtier en coton
+13-1021,Fruit Buyer,Acheteur de fruits
+13-1021,Livestock Buyer,Acheteur de bétail
+13-1022,Gold Buyer,Acheteur d'or
+13-1022,Merchandise Buyer,Acheteur de marchandise
+13-1023,Equipment,Équipement
+13-1023,Supplies,Ravitaillement
+13-1023,and Tools Purchasing Agent,et Agent d'achat d'outils
+13-1023,Radio Time Buyer,Acheteur de temps radio
+13-1031,Fire Claims Adjuster,Expert en sinistres d'incendie
+13-1031,Health Insurance Adjuster,Expert en assurance maladie
+13-1031,Property and Casualty Insurance Claims Examiner,Examinateur de réclamations d'assurance de dommages
+13-1032,Automobile Damage Appraiser,Évaluateur de dommages automobiles
+13-1032,Vehicle Damage Appraiser,Évaluateur des dommages au véhicule
+13-1041,Driver's License Examiner,Examinateur de permis de conduire
+13-1041,Environmental Compliance Inspector,Inspecteur de la conformité environnementale
+13-1041,Equal Employment Opportunity Officer,Responsable de l'égalité des chances en matière d'emploi
+13-1051,Construction Job Cost Estimator,Estimateur du coût des travaux de construction
+13-1051,Crating and Moving Estimator,Estimateur de mise en caisse et de déplacement
+13-1051,Production Cost Estimator,Estimateur des coûts de production
+13-1071,Human Resources Generalist,Généraliste en ressources humaines
+13-1071,Personnel Recruiter,Recruteur de personnel
+13-1071,Staffing Coordinator,Coordonnatrice de la dotation
+13-1071,Student Recruiter,Recruteur d'étudiants
+13-1071,Volunteer Coordinator,Coordonnatrice des bénévoles
+13-1074,Harvesting Contractor,Entrepreneur en récolte
+13-1075,Employee Relations Specialist,Spécialiste des relations avec les employés
+13-1075,Labor Relations Consultant,Consultante en relations de travail
+13-1075,Union Representative,Représentant syndical
+13-1081,Logistics Analyst,Analyste logistique
+13-1081,Logistics Planner,Planificateur logistique
+13-1081,Logistics Specialist,Spécialiste en logistique
+13-1082,Design Project Management Specialists,Spécialistes de la gestion de projet de conception
+13-1082,Movie Project Management Specialists,Spécialistes de la gestion de projets vidéo
+13-1111,Business Management Analyst,Analyste en gestion d'entreprise
+13-1111,Business Process Consultant,Consultant en processus d'affaires
+13-1111,Industrial Analyst,Analyste industriel
+13-1111,University Institutional Researcher,Chercheur institutionnel universitaire
+13-1121,Conference Planner,Planificateur de conférence
+13-1121,Corporate Meeting Planner,Planificateur de réunions d'entreprise
+13-1121,Wedding Planner,Planificateur de mariage
+13-1131,Campaign Fundraiser,Collecte de fonds de la campagne
+13-1131,Donor Relations Officer,Agent des relations avec les donateurs
+13-1131,Fundraising Officer,Agent de collecte de fonds
+13-1141,Employee Benefits Specialist,Spécialiste des avantages sociaux
+13-1141,Job Analyst,Analyste d'emploi
+13-1141,Retirement Plan Specialist,Spécialiste des régimes de retraite
+13-1151,Computer Software Training Specialist,Spécialiste de la formation en logiciels informatiques
+13-1151,Computer Training Specialist,Spécialiste en formation informatique
+13-1151,Corporate Trainer,Formateur d'entreprise
+13-1151,Insurance Employee Trainer,Formateur d'employés en assurance
+13-1161,Advertising Analyst,Analyste publicitaire
+13-1161,Market Research Specialist,Spécialiste en études de marché
+13-1161,Marketing Consultant,Marketing Consultant
+13-1161,Marketing Forecaster,Prévisionniste marketing
+13-1161,Search Marketing Strategist,Stratège en marketing de recherche
+13-1199,Mystery Shopper,Client mystère
+13-1199,Ship Purser,Commissaire de bord
+13-2011,Certified Public Accountant,Expert-comptable agréé
+13-2011,Field Auditor,Auditeur de terrain
+13-2011,Internal Auditor,Auditeur interne
+13-2022,Estate Appraiser,Évaluateur immobilier
+13-2022,Machinery Appraiser,Évaluateur de machines
+13-2022,Personal Property Assessor,Évaluateur des biens personnels
+13-2023,Real Estate Appraiser,Évaluateur immobilier
+13-2023,Real Estate Assessor,Évaluateur immobilier
+13-2031,Budget Examiner,Examinateur budgétaire
+13-2031,Budget Officer,Agent du budget
+13-2031,Cost Analyst,Analyste des coûts
+13-2041,Credit Assessment Analyst,Analyste en évaluation de crédit
+13-2041,Credit Risk Analyst,Analyste du risque de crédit
+13-2051,Corporate Financial Analyst,Analyste financier d'entreprise
+13-2051,Corporate Securities Research Analyst,Analyste de recherche en valeurs mobilières d'entreprise
+13-2051,Institutional Commodity Analyst,Analyste institutionnel des matières premières
+13-2051,Organizational Investment Analyst,Analyste en investissement organisationnel
+13-2052,Estate Planner,Planificateur successoral
+13-2052,Individual Pension Adviser,Conseiller en pension individuelle
+13-2052,Personal Investment Adviser,Conseiller en placement personnel
+13-2053,Automobile and Property Underwriter,Assureur automobile et immobilier
+13-2053,Bond Underwriter,Souscripteur d'obligations
+13-2053,Insurance Analyst,Analyste en assurance
+13-2054,Financial Risk Analyst,Analyste des risques financiers
+13-2061,Bank Examiner,Examinateur de banque
+13-2061,Financial Compliance Examiner,Examinateur de la conformité financière
+13-2061,Home Mortgage Disclosure Act Specialist,Spécialiste de la Loi sur la divulgation des prêts hypothécaires résidentiels
+13-2071,Debt Management Counselor,Conseiller en gestion de la dette
+13-2071,Student Financial Aid Counselor,Conseiller en aide financière aux étudiants
+13-2071,Student Loan Counselor,Conseiller en prêts étudiants
+13-2072,Commercial Lender,Prêteur commercial
+13-2072,Loan Reviewer,Examinateur de prêt
+13-2072,Payday Loan Officer,Agent de prêt sur salaire
+13-2072,Real Estate Loan Officer,Agent de prêt immobilier
+13-2081,Internal Revenue Service Agent,Agent de l'Internal Revenue Service
+13-2081,Revenue Collector,Percepteur de recettes
+13-2081,Tax Investigator,Enquêteur fiscal
+13-2082,Income Tax Advisor,Conseiller en impôt sur le revenu
+13-2082,Income Tax Preparer,Préparateur de déclarations de revenus
+13-2082,Licensed Tax Consultant,Conseiller fiscal agréé
+13-2099,Bail Bondsman,Cautionneur
+15-1211,Applications Analyst,Analyste d'applications
+15-1211,Data Processing Systems Analyst,Analyste des systèmes de traitement des données
+15-1211,Information Systems Analyst,Analyste des systèmes d'information
+15-1211,Systems Architect,Architecte système
+15-1212,Computer Security Specialist,Spécialiste en sécurité informatique
+15-1212,IT Risk Specialist,Spécialiste des risques informatiques
+15-1212,Network Security Analyst,Analyste de la sécurité réseau
+15-1221,Computational Theory Scientist,Scientifique en théorie computationnelle
+15-1221,Control System Computer Scientist,Informaticien du système de contrôle
+15-1221,Programming Methodology and Languages Researcher,Chercheur en méthodologie de programmation et en langages
+15-1231,Network Diagnostic Support Specialist,Spécialiste de l'assistance au diagnostic réseau
+15-1231,Network Support Technician,Technicien de support réseau
+15-1231,Network Technician,Technicien réseau
+15-1232,End-User Support Specialist,Spécialiste du support aux utilisateurs finaux
+15-1232,Help Desk Technician,Technicien du service d'assistance
+15-1232,IT Support Specialist,Spécialiste du support informatique
+15-1241,Computer Network Engineer,Ingénieur réseau informatique
+15-1241,Network Designer,Concepteur de réseau
+15-1241,Network Developer,Développeur réseau
+15-1242,Database Programmer,Programmeur de base de données
+15-1242,Database Security Administrator,Administrateur de la sécurité de la base de données
+15-1243,Data Architect,Architecte de données
+15-1243,Data Integration Specialist,Spécialiste de l'intégration de données
+15-1243,Data Warehousing Specialist,Spécialiste de l'entreposage de données
+15-1243,Database Developer,Développeur de base de données
+15-1244,Network Analyst,Analyste de réseau
+15-1244,Network Coordinator,Coordonnatrice du réseau
+15-1244,Wide Area Network Administrator,Administrateur de réseau étendu
+15-1251,Applications Programmer,Programmeur d'applications
+15-1251,Computer Language Coder,Codeur de langage informatique
+15-1251,IT Programmer,Programmeur informatique
+15-1251,Systems Programmer,Programmeur de systèmes
+15-1252,Computer Applications Engineer,Ingénieur d'applications informatiques
+15-1252,Computer Systems Engineer,Ingénieur systèmes informatiques
+15-1252,Mobile Applications Developer,Développeur d'applications mobiles
+15-1252,Software Applications Architect,Architecte d'applications logicielles
+15-1252,Software Engineer,Ingénieur logiciel
+15-1252,Systems Software Developer,Développeur de logiciels systèmes
+15-1253,Applications Tester,Testeur d'applications
+15-1253,Software Quality Assurance Technician,Technicien en assurance qualité logicielle
+15-1253,Software Quality Control Specialist,Spécialiste du contrôle de la qualité des logiciels
+15-1253,Software Quality Engineer,Ingénieur Qualité Logiciel
+15-1253,Software Test Engineer,Ingénieur de test logiciel
+15-1254,Intranet Developer,Développeur Intranet
+15-1254,Web Applications Developer,Développeur d'applications Web
+15-1254,Web Architect,Architecte Web
+15-1255,Digital Designer,Concepteur numérique
+15-1255,Graphic Web Designer,Graphiste Web Designer
+15-1255,Web Content Specialist,Spécialiste du contenu Web
+15-1299,Computer Console Operator,Opérateur de console d'ordinateur
+15-1299,Computer Laboratory Technician,Technicien de laboratoire en informatique
+15-1299,Data Center Operator,Opérateur de centre de données
+15-2011,Actuarial Mathematician,Mathématicien actuariel
+15-2011,Health Actuary,Actuaire de la santé
+15-2011,Insurance Actuary,Actuaire d'assurance
+15-2021,Algebraist,Algebraist
+15-2021,Cryptographer,Cryptographer
+15-2021,Cryptographic Vulnerability Analyst,Analyste des vulnérabilités cryptographiques
+15-2031,Operations Analyst,Analyste des opérations
+15-2031,Procedure Analyst,Analyste de procédures
+15-2031,Process Analyst,Analyste de processus
+15-2041,Biostatistician,Biostatisticien
+15-2041,Statistical Analyst,Analyste statistique
+15-2041,Time Study Statistician,Statisticien d'études du temps
+15-2051,Business Intelligence Developer,Développeur Business Intelligence
+15-2051,Data Analytics Specialist,Spécialiste en analyse de données
+15-2051,Data Mining Analyst,Analyste d'exploration de données
+15-2051,Data Visualization Developer,Développeur de visualisation de données
+15-2099,Harmonic Analyst,Analyste harmonique
+15-2099,Mathematical Engineering Technician,Technicien en génie mathématique
+17-1011,Building Architect,Architecte du bâtiment
+17-1011,Building Architectural Designer,Concepteur d'architecture de bâtiment
+17-1011,Structural Architect,Architecte structurel
+17-1012,Golf Course Architect,Architecte de terrain de golf
+17-1012,Golf Course Designer,Concepteur de parcours de golf
+17-1012,Landscape Designer,Paysagiste
+17-1021,Digital Cartographer,Cartographe numérique
+17-1021,Mapper,Cartographe
+17-1021,Topographer,Topographe
+17-1022,Geodetic Surveyor,Géomètre géodésique
+17-1022,Land Surveyor,Arpenteur-géomètre
+17-1022,Mineral Surveyor,Arpenteur-géomètre minéral
+17-2011,Aeronautical Engineer,Ingénieur aéronautique
+17-2011,Aircraft Design Engineer,Ingénieur en conception d'aéronefs
+17-2011,Flight Test Engineer,Ingénieur d'essais en vol
+17-2021,Agricultural Production Engineer,Ingénieur en production agricole
+17-2021,Agricultural Research Engineer,Ingénieur de recherche agronomique
+17-2021,Farm Equipment Engineer,Ingénieur en équipement agricole
+17-2031,Biomaterials Engineer,Ingénieur Biomatériaux
+17-2031,Bio-Mechanical Engineer,Ingénieur en biomécanique
+17-2031,Dialysis Engineer,Ingénieur dialyse
+17-2041,Fuels Engineer,Ingénieur carburants
+17-2041,Plastics Engineer,Ingénieur en plasturgie
+17-2041,Polymerization Engineer,Ingénieur en polymérisation
+17-2051,Bridge Engineer,Ingénieur pont
+17-2051,Construction Engineer,Ingénieur en construction
+17-2051,Highway Engineer,Ingénieur routier
+17-2061,Computer Hardware Designer,Concepteur de matériel informatique
+17-2061,Computer Hardware Developer,Développeur de matériel informatique
+17-2071,Electrical Systems Engineer,Ingénieur en systèmes électriques
+17-2071,Illuminating Engineer,Ingénieur éclairant
+17-2071,Power Distribution Engineer,Ingénieur en distribution d'énergie
+17-2072,Circuit Design Engineer,Ingénieur en conception de circuits
+17-2072,Electronic Design Automation Engineer,Ingénieur en automatisation de la conception électronique
+17-2072,Telecommunication Engineer,Ingénieur en télécommunications
+17-2081,Environmental Remediation Engineer,Ingénieur en assainissement de l'environnement
+17-2081,Pollution Control Engineer,Ingénieur en contrôle de la pollution
+17-2081,Soil Engineer,Ingénieur en sol
+17-2081,Water Treatment Plant Engineer,Ingénieur en usine de traitement de l'eau
+17-2111,Fire Protection Engineer,Ingénieur en protection incendie
+17-2111,Industrial Safety Engineer,Ingénieur en sécurité industrielle
+17-2111,Product Safety Engineer,Ingénieur en sécurité des produits
+17-2112,Efficiency Engineer,Ingénieur Efficacité
+17-2112,Manufacturing Engineer,Ingénieur de fabrication
+17-2112,Packaging Engineer,Ingénieur emballage
+17-2112,Production Engineer,Ingénieur de production
+17-2121,Marine Architect,Architecte marin
+17-2121,Marine Structural Designer,Concepteur de structures marines
+17-2121,Naval Engineer,Ingénieur naval
+17-2131,Automotive Sheet Metal Engineer,Ingénieur en tôle automobile
+17-2131,Forensic Materials Engineer,Ingénieur en matériaux médico-légaux
+17-2131,Metallographer,Métallographe
+17-2141,Combustion Engineer,Ingénieur en combustion
+17-2141,Engine Designer,Concepteur de moteur
+17-2141,Heating and Cooling Systems Engineer,Ingénieur en systèmes de chauffage et de refroidissement
+17-2141,Tool and Die Engineer,Ingénieur outillage et matrice
+17-2151,Geophysical Engineer,Ingénieur géophysique
+17-2151,Mineral Engineer,Ingénieur minéral
+17-2151,Seismic Engineer,Ingénieur sismique
+17-2161,Atomic Process Engineer,Ingénieur en procédés atomiques
+17-2161,Nuclear Radiation Engineer,Ingénieur en radiation nucléaire
+17-2161,Radiation Engineer,Ingénieur en radiation
+17-2161,Reactor Engineer,Ingénieur réacteur
+17-2171,Natural Gas Engineer,Ingénieur en gaz naturel
+17-2171,Oil Drilling Engineer,Ingénieur en forage pétrolier
+17-2171,Oil Exploration Engineer,Ingénieur en exploration pétrolière
+17-2199,Calibration Engineer,Ingénieur en étalonnage
+17-2199,Metrologist,Métrologue
+17-2199,Optical Engineer,Ingénieur en optique
+17-2199,Ordnance Engineer,Ingénieur en munitions
+17-2199,Photonics Engineer,Ingénieur Photonique
+17-2199,Salvage Engineer,Ingénieur de sauvetage
+17-3011,Building Drafter,Dessinateur de bâtiment
+17-3011,Civil Computer-Aided Design and Drafting Technician,Technicien civil de conception et de dessin assistés par ordinateur
+17-3011,Structural Drafter,Dessinateur structurel
+17-3012,Electrical Computer Aided Design and Drafting Technician,Technicien en conception et dessin assistés par ordinateur électrique
+17-3012,Electrical Systems Drafter,Dessinateur de systèmes électriques
+17-3012,Printed Circuit Board Drafter,Dessinateur de carte de circuit imprimé
+17-3013,Aeronautical Drafter,Dessinateur aéronautique
+17-3013,Automotive Design Drafter,Dessinateur de conception automobile
+17-3013,Tool and Die Designer,Concepteur d'outils et de matrices
+17-3019,Blueprint Tracer,Traceur de blueprint
+17-3019,Geological Drafter,Dessinateur géologique
+17-3019,Marine Drafter,Dessinateur maritime
+17-3021,Altitude Chamber Technician,Technicien de chambre d'altitude
+17-3021,Flight Data Technician,Technicien en données de vol
+17-3021,Wind Tunnel Technician,Technicien en soufflerie
+17-3022,Geotechnical Engineering Technician,Technicien en génie géotechnique
+17-3022,Highway Engineering Technician,Technicien en génie routier
+17-3022,Structural Engineering Technician,Technicien en génie des structures
+17-3023,Electrical Design Technician,Technicien en conception électrique
+17-3023,Lighting Engineering Technician,Technicien en génie de l'éclairage
+17-3023,Semiconductor Development Technician,Technicien en développement de semi-conducteurs
+17-3024,Mechatronics Technician,Technicien en mécatronique
+17-3024,Remotely Piloted Vehicle Engineering Technician,Technicien en ingénierie de véhicules télépilotés
+17-3024,Robotics Testing Technician,Technicien d'essais robotiques
+17-3024,Unmanned Air Systems Operator,Opérateur de systèmes aériens sans pilote
+17-3025,Air Analysis Engineering Technician,Technicien en génie de l'analyse de l'air
+17-3025,Environmental Remediation Engineering Technician,Technicien en génie de l'assainissement de l'environnement
+17-3025,Pollution Control Engineering Technician,Technicien en ingénierie du contrôle de la pollution
+17-3026,Motion Study Technician,Technicien en étude de mouvement
+17-3026,Production Control Technologist,Technologue en contrôle de la production
+17-3026,Time Study Technician,Technicien d'étude du temps
+17-3027,Gyroscopic Engineering Technician,Technicien en génie gyroscopique
+17-3027,Heat Transfer Technician,Technicien en transfert de chaleur
+17-3027,Optomechanical Technician,Technicien optomécanicien
+17-3028,Calibration Technician,Technicien d'étalonnage
+17-3028,Calibration Technologist,Technologue en étalonnage
+17-3028,Hydrometer Calibrator,Calibrateur d'hydromètre
+17-3029,Agricultural Engineering Technician,Technicien en génie agricole
+17-3029,Biomedical Engineering Technician,Technicien en génie biomédical
+17-3029,Metallurgical Engineering Technician,Technicien en génie métallurgique
+17-3029,Optical Engineering Technician,Technicien en génie optique
+17-3029,Radar Technicians,Techniciens radar
+17-3029,Sonar Technicians,Techniciens sonar
+17-3031,Cartographic Technician,Technicien cartographique
+17-3031,Field Map Technician,Technicien en cartographie de terrain
+17-3031,GIS Mapping Technician,Technicien en cartographie SIG
+19-1011,Animal Nutritionist,Nutritionniste animalière
+19-1011,Dairy Scientist,Scientifique laitier
+19-1011,Poultry Scientist,Scientifique de la volaille
+19-1012,Dairy Bacteriologist,Bactériologiste laitier
+19-1012,Enologist,Œnologue
+19-1012,Food Safety Scientist,Scientifique en salubrité des aliments
+19-1013,Arboreal Scientist,Scientifique arboricole
+19-1013,Horticulturist,Horticulteur
+19-1013,Plant Physiologist,Physiologiste végétal
+19-1021,Biological Chemist,Chimiste biologique
+19-1021,Clinical Biochemist,Biochimiste clinique
+19-1021,Physical Biochemist,Biochimiste physique
+19-1022,Bacteriologist,Bactériologiste
+19-1022,Public Health Microbiologist,Microbiologiste en santé publique
+19-1022,Virologist,Virologue
+19-1023,Herpetologist,Herpétologiste
+19-1023,Ichthyologist,Ichtyologiste
+19-1023,Marine Biologist,Biologiste marin
+19-1023,Ornithologist,Ornithologue
+19-1029,Embryologist,Embryologiste
+19-1029,Osteologist,Ostéologue
+19-1029,Paleobotanist,Paléobotaniste
+19-1031,Grassland Conservationist,Conservateur des prairies
+19-1031,Range Ecologist,Ecologiste de l'aire de répartition
+19-1031,Soil Conservationist,Conservateur des sols
+19-1032,Environmental Protection Forester,Forestier de protection de l'environnement
+19-1032,Forest Ecologist,Écologiste forestier
+19-1032,Timber Management Specialist,Spécialiste de la gestion du bois
+19-1041,Epidemiology Investigator,Chercheur en épidémiologie
+19-1041,Malariologist,Malariologiste
+19-1041,Pharmacoepidemiologist,Pharmacoépidémiologiste
+19-1042,Cancer Researcher,Chercheur sur le cancer
+19-1042,Immunochemist,Immunochimiste
+19-1042,Toxicologist,Toxicologue
+19-1099,Life Science Taxonomist,Taxonomiste des sciences de la vie
+19-2011,Astrophysicist,Astrophysicien
+19-2011,Cosmologist,Cosmologiste
+19-2012,Fluid Dynamicist,Dynamicien des fluides
+19-2012,Molecular Physicist,Physicien moléculaire
+19-2012,Optical Scientist,Scientifique en optique
+19-2012,Rheologist,Rhéologue
+19-2021,Atmospheric Chemist,Chimiste atmosphérique
+19-2021,Climatologist,Climatologue
+19-2021,Hurricane Tracker,Suivi des ouragans
+19-2021,Meteorologist,Météorologiste
+19-2031,Food Chemist,Chimiste alimentaire
+19-2031,Industrial Chemist,Chimiste industriel
+19-2031,Inorganic Chemist,Chimiste inorganique
+19-2031,Research and Development Chemist,Chimiste en recherche et développement
+19-2032,Metal Alloy Scientist,Scientifique des alliages métalliques
+19-2032,Plastics Scientist,Scientifique des plastiques
+19-2041,Hazardous Substances Scientist,Scientifique des substances dangereuses
+19-2041,Health Environmentalist,Santé Environnementaliste
+19-2041,Water Pollution Scientist,Scientifique spécialiste de la pollution de l'eau
+19-2042,Geochemist,Géochimiste
+19-2042,Oceanographer,Océanographe
+19-2042,Petrologist,Pétrologue
+19-2042,Volcanologist,Volcanologue
+19-2043,Hydrogeologist,Hydrogéologue
+19-2043,Isotope Hydrologist,Hydrologue isotopique
+19-2043,Surface Hydrologist,Hydrologue de surface
+19-3011,Econometrician,Économétricien
+19-3011,Economic Research Analyst,Analyste en recherche économique
+19-3011,Environmental Economist,Économiste de l'environnement
+19-3011,Industrial Economist,Économiste industriel
+19-3022,Pollster,Enquêteur
+19-3022,Survey Methodologist,Méthodologiste d'enquête
+19-3022,Survey Questionnaire Designer,Concepteur de questionnaires d'enquête
+19-3032,Engineering Psychologist,Psychologue en ingénierie
+19-3032,Human Resources Psychologist,Psychologue des ressources humaines
+19-3032,Management Psychologist,Psychologue de gestion
+19-3033,Eating Disorder Psychologists,Psychologues des troubles de l'alimentation
+19-3033,Geropsychologists,Géropsychologues
+19-3034,Educational Psychologists,Psychologues de l'éducation
+19-3039,Forensic Psychologist,Psychologue médico-légal
+19-3039,Social Psychologist,Psychologue social
+19-3039,Sports Psychologist,Psychologue du sport
+19-3041,Criminologist,Criminologue
+19-3041,Family Sociologist,Sociologue de la famille
+19-3041,Rural Sociologist,Sociologue rural
+19-3051,City Planner,Urbaniste
+19-3051,Community Development Planner,Planificateur du développement communautaire
+19-3091,Ethnoarchaeologist,Ethnoarchéologue
+19-3091,Political Anthropologist,Anthropologue politique
+19-3091,Research Archaeologist,Archéologue de recherche
+19-3092,Economic Geographer,Géographe économique
+19-3092,Geomorphologist,Géomorphologue
+19-3092,GIS Geographer,Géographe SIG
+19-3092,Political Geographer,Géographe politique
+19-3093,Genealogist,Généalogiste
+19-3093,Historiographer,Historiographe
+19-3093,Protohistorian,Protohistorien
+19-3094,Government Affairs Specialist,Spécialiste des affaires gouvernementales
+19-3094,Political Consultant,Consultant politique
+19-3094,Political Research Scientist,Chercheur politique
+19-3099,Demographer,Démographe
+19-3099,Ethnologist,Ethnologue
+19-3099,Linguist,Linguiste
+19-4012,Feed Research Technician,Technicien en recherche sur les aliments pour animaux
+19-4012,Seed Analyst,Analyste semences
+19-4013,Flavor Technician,Technicien en arômes
+19-4013,Food Quality Control Technician,Technicien en contrôle de la qualité des aliments
+19-4013,Food Quality Technician,Technicien en qualité des aliments
+19-4021,Bacteriology Technician,Technicien en bactériologie
+19-4021,Marine Fisheries Technician,Technicien des pêches maritimes
+19-4021,Wildlife Technician,Technicien de la faune
+19-4031,Assayer,Essayeur
+19-4031,Chemical Laboratory Technician,Technicien de laboratoire chimique
+19-4031,Inorganic Chemical Technician,Technicien en chimie inorganique
+19-4042,Certified Indoor Environmentalist,Environnementaliste d'intérieur certifié
+19-4042,Environmental Science Technician,Technicien en sciences de l'environnement
+19-4042,Infectious Waste Technician,Technicien en déchets infectieux
+19-4042,Pollution Control Technician,Technicien en contrôle de la pollution
+19-4043,Crude Tester,Testeur de brut
+19-4043,Geophysical Prospector,Prospecteur géophysique
+19-4043,Seismic Observer,Observateur sismique
+19-4044,Groundwater Monitoring Technician,Technicien en surveillance des eaux souterraines
+19-4051,Nuclear Monitoring Technician,Technicien en surveillance nucléaire
+19-4051,Radiochemical Technician,Technicien en radiochimie
+19-4061,City Planning Aide,Aide à l'urbanisme
+19-4061,Economic Research Assistant,Assistante de recherche économique
+19-4061,Historian Research Assistant,Assistante de recherche historienne
+19-4071,Forestry Aide,Aide forestière
+19-4071,Soil Conservation Technician,Technicien en conservation des sols
+19-4071,Timber Management Technician,Technicien en gestion du bois
+19-4092,Ballistics Expert,Expert en balistique
+19-4092,Crime Scene Technician,Technicien en scène de crime
+19-4092,Trace Evidence Technician,Technicien en preuve de traces
+19-4099,Meteorological Aide,Aide météorologique
+19-4099,Polygraph Examiner,Examinateur polygraphique
+19-5011,Environmental Health Sanitarian,Santé environnementale Sanitaire
+19-5011,Health and Safety Inspector,Inspecteur de la santé et de la sécurité
+19-5011,Industrial Hygienist,Hygiéniste industrielle
+19-5012,Construction Health and Safety Technician,Technicien en santé et sécurité dans le secteur de la construction
+19-5012,Ergonomics Technician,Technicien en ergonomie
+19-5012,Occupational Health and Safety Technologist (OHST),Technologue en santé et sécurité au travail (TSST)
+21-1011,Addiction Counselor,Conseiller en toxicomanie
+21-1011,Alcohol and Drug Counselor,Conseiller en alcool et drogues
+21-1011,Chemical Dependency Counselor,Conseiller en dépendance chimique
+21-1012,Admissions Counselor,Conseiller aux admissions
+21-1012,Career Counselor,Conseiller d'orientation
+21-1012,Guidance Counselor,Conseiller d'orientation
+21-1012,Student Services Counselor,Conseiller en services aux étudiants
+21-1013,Child and Family Counselor,Conseiller à l'enfance et à la famille
+21-1013,Couples Therapist,Thérapeute de couple
+21-1013,Marriage Counselor,Conjugal
+21-1014,Licensed Clinical Mental Health Counselor (LCMHC),Conseiller clinique agréé en santé mentale (LCMHC)
+21-1014,Licensed Mental Health Counselor (LMHC),Conseiller en santé mentale agréé (LMHC)
+21-1015,Psychosocial Rehabilitation Counselor,Conseiller en réadaptation psychosociale
+21-1015,Veterans Rehabilitation Counselor,Conseiller en réadaptation des vétérans
+21-1015,Vocational Rehabilitation Job Coach,Coach en réadaptation professionnelle
+21-1019,Anger Control Counselor,Conseiller en contrôle de la colère
+21-1019,Grief Counselor,Conseiller en deuil
+21-1019,Sexual Assault Counselor,Conseiller en agression sexuelle
+21-1021,Certified Children,Enfants certifiés
+21-1021,Youth,Jeunesse
+21-1021,and Family Social Worker,et travailleuse sociale familiale
+21-1021,Child Abuse Worker,Travailleur en matière de maltraitance d'enfants
+21-1021,Foster Care Worker,Travailleur en famille d'accueil
+21-1022,Hospice Social Worker,Travailleur social en soins palliatifs
+21-1022,Oncology Social Worker,Travailleur social en oncologie
+21-1022,Public Health Social Worker,Travailleur social en santé publique
+21-1023,Community Mental Health Social Worker,Travailleur social en santé mentale communautaire
+21-1023,Drug Abuse Social Worker,Travailleur social toxicomane
+21-1023,Psychiatric Social Worker,Travailleur social psychiatrique
+21-1029,Adult Protective Service Social Worker,Travailleur social du Service de protection des adultes
+21-1029,Criminal Justice Social Worker,Travailleur social en justice pénale
+21-1029,Forensic Social Worker,Travailleur social médico-légal
+21-1029,Sexual Assault Social Worker,Travailleur social en matière d'agression sexuelle
+21-1091,Community Health Education Coordinator,Coordonnatrice de l'éducation en santé communautaire
+21-1091,Diabetes Educator,Éducateur en diabète
+21-1091,Public Health Educator,Éducateur en santé publique
+21-1092,Juvenile Probation Officer,Agent de probation juvénile
+21-1092,Parole Agent,Agent de libération conditionnelle
+21-1092,Parole Officer,Agent de libération conditionnelle
+21-1093,Case Work Aide,Aide au travail de cas
+21-1093,Family Service Assistant,Assistante aux services à la famille
+21-1093,Human Services Worker,Travailleur des services à la personne
+21-1094,Lay Health Advocate,Défenseur laïc de la santé
+21-1094,Peer Health Promoter,Promoteur de la santé par les pairs
+21-1094,Promotor(a),Promoteur(a)
+21-1099,Community Organization Worker,Travailleur d'organisme communautaire
+21-1099,Veterans Service Officer,Officier des services aux anciens combattants
+21-2011,Imam,Imam
+21-2011,Priest,Prêtre
+21-2011,Rabbi,Rabbin
+21-2021,Religious Education Director,Directeur de l'éducation religieuse
+21-2021,Youth Ministry Director,Directeur de la pastorale des jeunes
+21-2099,Missionary,Missionnaire
+21-2099,Mohel,Mohel
+21-2099,Verger,Bedeau
+23-1011,Attorney,Avocat
+23-1011,Corporate Counsel,Conseiller juridique d'entreprise
+23-1011,Public Defender,Défenseur public
+23-1012,Judicial Clerk,Greffier judiciaire
+23-1021,Appeals Examiner,Examinateur d'appels
+23-1021,Justice of The Peace,Juge de paix
+23-1021,Traffic Court Referee,Arbitre du tribunal de la circulation
+23-1022,Alternative Dispute Resolution Coordinator,Coordonnatrice du règlement extrajudiciaire des différends
+23-1022,Mediation Commissioner,Commissaire à la médiation
+23-1022,Ombudsman,Médiateur
+23-1023,Circuit Court Judge,Juge de la Cour de circuit
+23-1023,Justice,Justice
+23-1023,Tribal Judge,Juge tribal
+23-2011,Legal Aide,Aide juridique
+23-2093,Escrow Officer,Agent d'entiercement
+23-2093,Lien Searcher,Chercheur de privilèges
+23-2093,Title Officer,Responsable des titres
+23-2099,Legal Technician,Technicien juridique
+25-1011,Accounting Professor,Professeur de comptabilité
+25-1011,Finance Professor,Professeur de finance
+25-1011,Marketing Professor,Professeur de marketing
+25-1021,Computer Information Systems Professor,Professeur de systèmes d'information informatique
+25-1021,Information Technology Professor,Professeur de technologie de l'information
+25-1021,Java Programming Professor,Professeur de programmation Java
+25-1022,Actuarial Science Professor,Professeur d'actuariat
+25-1022,Calculus Professor,Professeur de calcul
+25-1022,Statistics Professor,Professeur de statistique
+25-1031,Architectural Design Professor,Professeur de design architectural
+25-1031,Landscape Architecture Professor,Professeur d'architecture de paysage
+25-1032,Aeronautical Engineering Professor,Professeur de génie aéronautique
+25-1032,Civil Engineering Professor,Professeur de génie civil
+25-1032,Electrical Engineering Professor,Professeur de génie électrique
+25-1032,Marine Engineering Professor,Professeur de génie maritime
+25-1041,Agronomy Professor,Professeur d'agronomie
+25-1041,Aquaculture and Fisheries Professor,Professeur d'aquaculture et de pêche
+25-1041,Farm Management Professor,Professeur de gestion agricole
+25-1042,Bacteriology Professor,Professeur de bactériologie
+25-1042,Biochemistry Professor,Professeur de biochimie
+25-1042,Botany Professor,Professeur de botanique
+25-1043,Forest Ecology Professor,Professeur d'écologie forestière
+25-1043,Timber Management Professor,Professeur de gestion du bois
+25-1043,Wildlife Conservation Professor,Professeur de conservation de la faune
+25-1051,Climatology Professor,Professeur de climatologie
+25-1051,Geology Professor,Professeur de géologie
+25-1051,Oceanography Professor,Professeur d'océanographie
+25-1052,Inorganic Chemistry Professor,Professeur de chimie inorganique
+25-1052,Organic Chemistry Professor,Professeur de chimie organique
+25-1052,Physical Chemistry Professor,Professeur de chimie physique
+25-1053,Environmental Studies Professor,Professeur d'études environnementales
+25-1054,Astrophysics Professor,Professeur d'astrophysique
+25-1054,Ballistics Professor,Professeur de balistique
+25-1054,Hydrodynamics Professor,Professeur d'hydrodynamique
+25-1054,Thermodynamics Professor,Professeur de thermodynamique
+25-1061,Cultural Anthropology Professor,Professeur d'anthropologie culturelle
+25-1061,Ethnoarchaeology Professor,Professeur d'ethnoarchéologie
+25-1061,Paleology Professor,Professeur de paléologie
+25-1062,Ethnology Professor,Professeur d'ethnologie
+25-1062,Latin American Studies Professor,Professeur d'études latino-américaines
+25-1062,Women's Studies Professor,Professeure d'études féminines
+25-1063,Agricultural Economics Professor,Professeur d'économie agricole
+25-1063,Econometrics Professor,Professeur d'économétrie
+25-1063,Labor Economics Professor,Professeur d'économie du travail
+25-1064,Cartography Professor,Professeur de cartographie
+25-1064,Geomatics Professor,Professeur de géomatique
+25-1064,GIS Professor,Professeur SIG
+25-1065,Government Professor,Professeur de gouvernement
+25-1065,International Relations Professor,Professeur de relations internationales
+25-1065,Public Policy Professor,Professeur de politique publique
+25-1066,Child Development Professor,Professeur de développement de l'enfant
+25-1066,Educational Psychology Professor,Professeur de psychologie de l'éducation
+25-1066,Industrial/Organizational Psychology Professor,Professeur de psychologie industrielle/organisationnelle
+25-1067,Comparative Sociology Professor,Professeur de sociologie comparée
+25-1069,Survey Research Professor,Professeur de recherche par sondage
+25-1069,Urban Planning Professor,Professeur d'urbanisme
+25-1071,Nutrition Professor,Professeur de nutrition
+25-1071,Pharmacology Professor,Professeur de pharmacologie
+25-1071,Public Health Professor,Professeur de santé publique
+25-1072,Advanced Nursing Professor,Professeure avancée en sciences infirmières
+25-1072,Clinical Nursing Professor,Professeur de sciences infirmières cliniques
+25-1072,Registered Nursing Professor,Professeure autorisée en sciences infirmières
+25-1081,Primary Education Professor,Professeur d'enseignement primaire
+25-1081,Special Education Professor,Professeur d'éducation de l'enfance en difficulté
+25-1082,Library and Information Science Professor,Professeur de bibliothéconomie et de sciences de l'information
+25-1082,Medical Records Library Professor,Professeur à la bibliothèque des dossiers médicaux
+25-1111,Criminology Professor,Professeur de criminologie
+25-1111,Penology Professor,Professeur de pénologie
+25-1112,Constitutional Law Professor,Professeur de droit constitutionnel
+25-1112,Environmental Law Professor,Professeur de droit de l'environnement
+25-1112,Torts Law Professor,Professeur de droit de la responsabilité délictuelle
+25-1113,Family Welfare Social Work Professor,Professeur de travail social pour le bien-être de la famille
+25-1113,Geriatric Social Work Professor,Professeur de travail social gériatrique
+25-1113,Health Social Work Professor,Professeur de travail social en santé
+25-1121,Ballet Professor,Professeur de ballet
+25-1121,Photography Professor,Professeur de photographie
+25-1121,Piano Professor,Professeur de piano
+25-1122,Journalism Professor,Professeur de journalisme
+25-1122,Public Speaking Professor,Professeur de prise de parole en public
+25-1123,Contemporary English Literature Professor,Professeur de littérature anglaise contemporaine
+25-1123,Creative Writing English Professor,Professeur d'anglais en écriture créative
+25-1123,Etymology Professor,Professeur d'étymologie
+25-1124,Chinese Language Professor,Professeur de langue chinoise
+25-1124,Russian Language Professor,Professeur de langue russe
+25-1124,Spanish Literature Professor,Professeur de littérature espagnole
+25-1125,African History Professor,Professeur d'histoire africaine
+25-1125,American History Professor,Professeur d'histoire américaine
+25-1125,Jewish History Professor,Professeur d'histoire juive
+25-1125,Russian History Professor,Professeur d'histoire russe
+25-1126,Divinity Professor,Professeur de Divinité
+25-1126,Eastern Philosophy Professor,Professeur de philosophie orientale
+25-1126,Theology Professor,Professeur de théologie
+25-1192,Family and Consumer Sciences Professor,Professeur de sciences de la famille et de la consommation
+25-1192,Family Resource Management Professor,Professeur de gestion des ressources familiales
+25-1192,Home Economics Professor,Professeur d'économie domestique
+25-1193,Kinesiology Professor,Professeur de kinésiologie
+25-1193,Leisure Studies Professor,Professeur d'études sur les loisirs
+25-1193,Physical Education (PE) Professor,Professeur d'éducation physique (EP)
+25-1194,Automotive Technology Instructor,Instructeur en technologie automobile
+25-1194,Cosmetology Instructor,Instructeur de cosmétologie
+25-1194,HVAC Instructor,Instructeur CVC
+25-1194,Mechanical Maintenance Instructor,Instructeur en maintenance mécanique
+25-1199,Military Science Instructor,Instructeur de sciences militaires
+25-1199,Packaging Professor,Professeur d'emballage
+25-2011,Home-based Preschool Teacher,Enseignante préscolaire à domicile
+25-2011,Nursery School Teacher,Enseignante d'école maternelle
+25-2011,Preschool Head Start Teacher,Enseignante préscolaire Head Start
+25-2012,Bilingual Education Kindergarten Teacher,Enseignante de maternelle en éducation bilingue
+25-2021,4th Grade Math Teacher,Professeur de mathématiques de 4e année
+25-2021,Elementary School Music Teacher,Professeur de musique à l'école primaire
+25-2022,Intermediate School Social Studies Teacher,Professeur d'études sociales à l'école intermédiaire
+25-2022,Junior High School Teacher,Professeur de collège
+25-2022,Middle School Science Teacher,Professeur de sciences au collège
+25-2023,Junior High School Business Teacher,Professeur de commerce au collège
+25-2023,Middle School Technology Education Teacher,Professeur d'éducation technologique au collège
+25-2031,High School English Teacher,Professeur d'anglais au lycée
+25-2031,High School French Teacher,Professeur de Français secondaire
+25-2031,High School History Teacher,Professeur d'histoire au secondaire
+25-2032,High School Auto Repair Teacher,Professeur de réparation automobile au secondaire
+25-2032,High School Cosmetology Teacher,Professeur de cosmétologie au secondaire
+25-2051,Early Childhood Special Education Teacher,Enseignante en éducation spécialisée de la petite enfance
+25-2051,Pre-Kindergarten Education Intervention Teacher,Enseignante d'intervention en éducation prématernelle
+25-2051,Pre-Kindergarten Special Education Teacher,Enseignante en éducation spécialisée à la prématernelle
+25-2055,Kindergarten Special Education Teacher,Enseignante en éducation spécialisée à la maternelle
+25-2056,Elementary School Inclusion Teacher,Enseignante d'inclusion à l'école primaire
+25-2057,Junior High School Special Education Teacher,Enseignante en éducation spécialisée au premier cycle du secondaire
+25-2057,Middle School Special Education Teacher,Enseignante en éducation spécialisée au collège
+25-2058,High School Special Education Resource Teacher,Enseignante-ressource en éducation de l'enfance en difficulté au secondaire
+25-2059,Special Education Teacher for Adults with Disabilities,Enseignante en éducation spécialisée pour adultes handicapés
+25-3011,Adult Education Teacher,Enseignante en éducation des adultes
+25-3011,Adult English as a Second Language (ESL) Teacher,Enseignant adulte d'anglais langue seconde (ALS)
+25-3011,Adult Literacy Instructor,Instructeur en alphabétisation pour adultes
+25-3011,General Educational Development (GED ) Teacher,Enseignant de développement de l'éducation générale (GED)
+25-3021,Citizenship Teacher,Enseignante en citoyenneté
+25-3021,Knitting Instructor,Instructeur de tricot
+25-3021,Recreational Activities Instructor,Instructeur d'activités récréatives
+25-3031,Elementary School Substitute Teacher,Enseignante suppléante à l'école primaire
+25-3031,English Substitute Teacher,Professeur suppléant d'anglais
+25-3041,Algebra Tutor,Tuteur d'algèbre
+25-3041,Reading Tutor,Tuteur de lecture
+25-3041,Spanish Tutor,Tuteur d'espagnol
+25-3041,Standardized Test Tutor,Tuteur de test standardisé
+25-3099,Sunday School Teacher,Instructeur de l'École du Dimanche
+25-4011,Film Archivist,Archiviste de cinéma
+25-4011,Historical Records Administrator,Administrateur des documents historiques
+25-4011,Reference Archivist,Archiviste de référence
+25-4012,Herbarium Curator,Conservateur d'herbier
+25-4012,Photography and Prints Curator,Conservateur de la photographie et des estampes
+25-4013,Ethnographic Materials Conservator,Conservateur de matériel ethnographique
+25-4013,Museum Exhibit Technician,Technicien d'exposition du musée
+25-4013,Textile Conservator,Restaurateur textile
+25-4022,Library Media Specialist,Spécialiste des médias de bibliothèque
+25-4022,Multimedia Services Coordinator,Coordonnatrice des services multimédias
+25-4022,Music Librarian,Bibliothécaire musical
+25-4022,School Librarian,Bibliothécaire scolaire
+25-4031,Library Acquisitions Technician,Technicien en acquisitions de bibliothèque
+25-4031,Library Circulation Technician,Technicien en circulation de bibliothèque
+25-9021,Agricultural Extension Educator,Éducateur en vulgarisation agricole
+25-9021,Family Resource Management Specialist,Spécialiste de la gestion des ressources familiales
+25-9021,Feed Management Advisor,Conseiller en gestion des flux
+25-9031,Curriculum and Assessment Director,Directeur du curriculum et de l'évaluation
+25-9031,Curriculum Specialist,Spécialiste des programmes d'études
+25-9031,Special Education Curriculum Specialist,Spécialiste du programme d'études en éducation de l'enfance en
+25-9042,Elementary Learning Support Aide,Aide au soutien à l'apprentissage élémentaire
+25-9042,Middle School Paraeducator,Paraéducateur du collège
+25-9043,Special Education Classroom Aide,Aide-classe en éducation spécialisée
+25-9044,Assistant Instructor,Instructeur adjoint
+25-9044,College Biology Teaching Assistant,Assistant d'enseignement de la biologie au collège
+25-9044,University Teaching Assistant,Assistant d'enseignement universitaire
+25-9049,Adult ESL Teacher Aide,Aide-enseignant d'anglais langue seconde pour adultes
+25-9049,Adult Literacy Teaching Aide,Aide-enseignant en alphabétisation des adultes
+25-9049,Sunday School Teacher Aide,Aide-enseignant de l'École du Dimanche
+25-9099,Aptitude Test (SAT) Grader,Grader du test d'aptitude (SAT)
+25-9099,General Educational Development (GED ) Examiner,Examinateur du développement de l'enseignement général (GED)
+27-1011,Magazine Designer,Concepteur de magazines
+27-1012,Hand Potter,Potier à la main
+27-1012,Metal Crafts Artist,Artiste de l'artisanat du métal
+27-1012,Quilter,Quilter
+27-1013,Ice Sculptor,Sculpteur sur glace
+27-1013,Political Cartoonist,Caricaturiste politique
+27-1013,Scientific Illustrator,Illustrateur scientifique
+27-1013,Sketch Artist,Portraitiste
+27-1014,3D Animator,Animateur 3D
+27-1014,Special Effects Artist,Artiste des effets spéciaux
+27-1019,Calligrapher,Calligraphe
+27-1019,Tattoo Artist,Tatoueur
+27-1021,Automobile Designer,Automobile Designer
+27-1021,Package Designer,Concepteur de packages
+27-1022,Costume Designer,Costumier
+27-1022,Custom Furrier,Fourreur sur mesure
+27-1022,Dress Designer,Créateur de robes
+27-1023,Corsage Maker,Corsage Maker
+27-1023,Florist,Fleuriste
+27-1023,Flower Arranger,Arrangeur de fleurs
+27-1024,Graphic Artist,Graphiste
+27-1024,Visual Designer,Concepteur visuel
+27-1025,Home Lighting Adviser,Conseiller en éclairage domestique
+27-1025,Interior Decorator,Décorateur
+27-1025,Kitchen Designer,Designer de cuisine
+27-1026,Display Artist,Artiste d'affichage
+27-1026,Mannequin Decorator,Décorateur de mannequin
+27-1026,Window Decorator,Décorateur de fenêtres
+27-1027,Set Decorator,Décorateur
+27-1027,Stage Scenery Designer,Concepteur de décors de scène
+27-1029,Memorial Marker Designer,Concepteur de marqueurs commémoratifs
+27-2011,Actress,Actrice
+27-2011,Dramatic Reader,Lecteur dramatique
+27-2011,Voice-Over Artist,Artiste de voix off
+27-2012,Casting Director,Directeur de casting
+27-2012,Independent Film Maker,Cinéaste indépendant
+27-2012,Stage Manager,Régisseur
+27-2021,Professional Football Player,Joueur de football professionnel
+27-2021,Professional Jockey,Jockey professionnel
+27-2021,Professional Race Car Driver,Pilote de voiture de course professionnel
+27-2022,Baseball Scout,Baseball Scout
+27-2022,Boxing Coach,Entraîneur de boxe
+27-2022,Football Coach,Entraîneur de football
+27-2023,Athletic Events Scorer,Buteur d'événements athlétiques
+27-2023,Paddock Judge,Juge du paddock
+27-2023,Race Starter,Démarreur de course
+27-2031,Ballerina,Ballerine
+27-2031,Dance Artist,Artiste de danse
+27-2031,Tap Dancer,Danseur de claquettes
+27-2032,Dance Director,Directeur de danse
+27-2032,Dance Master,Maître de danse
+27-2041,Choirmaster,Chef de chœur
+27-2041,Orchestra Conductor,Chef d'orchestre
+27-2041,Orchestrator,Orchestrateur
+27-2041,Songwriter,Compositeur
+27-2042,Instrumentalist,Instrumentiste
+27-2042,Oboist,Hautboïste
+27-2042,Rapper,Rappeur
+27-2091,Club DJ,Club DJ
+27-2091,Deejay,Deejay
+27-2091,DJ,Dj
+27-2099,Clown,Clown
+27-2099,Comedian,Comédien
+27-2099,Magician,Magicien
+27-2099,Professional Poker Player,Joueur de poker professionnel
+27-3011,Game Show Host,Animateur de jeu télévisé
+27-3011,Radio Disc Jockey,Radio Disc Jockey
+27-3011,Talk Show Host,Animateur de talk-show
+27-3023,Columnist,Chroniqueur
+27-3023,Correspondent,Correspondant
+27-3023,Film Critic,Critique de cinéma
+27-3023,News Anchor,Présentateur de nouvelles
+27-3031,Lobbyist,Lobbyiste
+27-3031,Press Secretary,Attaché de presse
+27-3031,Publicity Writer,Rédacteur publicitaire
+27-3041,Advertising Editor,Éditeur de publicité
+27-3041,Copy Editor,Éditeur de copie
+27-3041,Technical Editor,Editeur technique
+27-3042,Documentation Writer,Rédacteur de documentation
+27-3042,Specifications Writer,Rédacteur de spécifications
+27-3043,Advertising Copy Writer,Rédacteur publicitaire
+27-3043,Playwright,Dramaturge
+27-3043,Television Writer,Scénariste de télévision
+27-3091,American Sign Language Interpreter,Interprète en langue des signes américaine
+27-3091,Court Interpreter,Interprète judiciaire
+27-3091,Diplomatic Interpreter,Interprète diplomatique
+27-3092,Court Stenographer,Sténographe judiciaire
+27-3092,Court Transcriber,Transcripteur de cour
+27-3092,Deposition Reporter,Reporter de dépôt
+27-3092,Realtime Captioner,Sous-titreur en temps réel
+27-3099,Stage Technician,Technicien de scène
+27-4011,Video Control Operator,Opérateur de contrôle vidéo
+27-4011,Video Production Assistant,Assistant de production vidéo
+27-4012,Broadcast Engineer,Ingénieur de diffusion
+27-4014,Audio Recording Engineer,Ingénieur d'enregistrement audio
+27-4014,Sound Editor,Éditeur de son
+27-4014,Sound Effects Technician,Technicien en effets sonores
+27-4015,Gaffer,Gaffer
+27-4015,Lamp Operator,Opérateur de lampe
+27-4021,Aerial Photographer,Photographe aérien
+27-4021,Medical Photographer,Photographe médical
+27-4021,Portrait Photographer,Photographe portraitiste
+27-4031,News Videographer,Actualités Vidéaste
+27-4032,Cue Selector,Sélecteur de repère
+27-4032,Film Editor,Montage
+27-4032,Television News Video Editor,Éditeur vidéo de nouvelles télévisées
+27-4099,Satellite Communications Operator,Opérateur de communications par satellite
+29-1011,Chiropractic Physician,Chiropratique
+29-1021,Family Dentist,Dentiste de famille
+29-1022,Dental Surgeon,Chirurgien-dentiste
+29-1023,Dentofacial Orthopedics Dentist,Dentiste orthopédie dentofaciale
+29-1023,Invisible Braces Orthodontist,Orthodontiste des appareils orthodontiques invisibles
+29-1023,Pediatric Orthodontist,Orthodontiste pédiatrique
+29-1024,Maxillofacial Prosthetics Dentist,Dentiste prothétique maxillo-faciale
+29-1024,Reconstructive Dentist,Dentiste reconstructeur
+29-1029,Endodontist,Endodontiste
+29-1029,Oral Pathologist,Pathologiste buccal
+29-1029,Periodontist,Parodontiste
+29-1031,Clinical Dietitian,Diététiste clinique
+29-1031,Pediatric Dietician,Diététicien pédiatrique
+29-1031,Public Health Nutritionist,Nutritionniste en santé publique
+29-1041,Doctor of Optometry,Docteur en optométrie
+29-1051,Apothecary,Apothicaire
+29-1051,Hospital Pharmacist,Pharmacien hospitalier
+29-1071,Anesthesiologist Assistant,Assistant anesthésiste
+29-1071,Family Practice Physician Assistant,Adjoint au médecin de famille
+29-1081,Chiropodist,Pédicure
+29-1081,Foot Doctor,Médecin du pied
+29-1081,Foot Orthopedist,Orthopédiste du pied
+29-1122,Registered Occupational Therapist,Ergothérapeute agréé
+29-1123,Geriatric Physical Therapist,Physiothérapeute gériatrique
+29-1123,Physiotherapist,Kinésithérapeute
+29-1123,Pulmonary Physical Therapist,Physiothérapeute pulmonaire
+29-1124,Radiation Therapy Technologist,Technologue en radiothérapie
+29-1125,Certified Recreational Therapist,Thérapeute récréatif certifié
+29-1125,Drama Therapist,Thérapeute en théâtre
+29-1125,Therapeutic Recreation Specialist,Spécialiste en loisirs thérapeutiques
+29-1126,Inhalation Therapist,Thérapeute en inhalation
+29-1126,Oxygen Therapist,Oxygénothérapeute
+29-1126,Registered Respiratory Therapist,Inhalothérapeute agréé
+29-1127,Public School Speech Therapist,Orthophoniste dans les écoles publiques
+29-1127,Speech Clinician,Clinicien de la parole
+29-1127,Speech Therapist,Orthophoniste
+29-1128,Applied Exercise Physiologist,Physiologiste de l'exercice appliqué
+29-1128,Clinical Exercise Physiologist,Physiologiste de l'exercice clinique
+29-1128,Kinesiotherapist,Kinésithérapeute
+29-1129,Art Therapist,Art-thérapeute
+29-1129,Hydrotherapist,Hydrothérapeute
+29-1129,Music Therapist,Musicothérapeute
+29-1131,Animal Surgeon,Chirurgien animalier
+29-1131,Doctor of Veterinary Medicine (DVM),Docteur en médecine vétérinaire (DVM)
+29-1131,Veterinary Cardiologist,Cardiologue vétérinaire
+29-1131,Veterinary Medicine Scientist,Scientifique en médecine vétérinaire
+29-1131,Veterinary Radiologist,Radiologue vétérinaire
+29-1131,Wildlife Veterinarian,Vétérinaire de la faune
+29-1141,Coronary Care Unit Nurse,Infirmière de l'unité de soins coronariens
+29-1141,Hospice Registered Nurse,Infirmière autorisée en soins palliatifs
+29-1141,Psychiatric Nurse,Infirmière psychiatrique
+29-1151,Certified Registered Nurse Anesthetist (CRNA),Infirmière anesthésiste autorisée certifiée (CRNA)
+29-1161,Certified Nurse Midwife (CNM),Infirmière sage-femme certifiée (CNM)
+29-1171,Cardiology Nurse Practitioner,Infirmière praticienne en cardiologie
+29-1171,Family Practice Nurse Practitioner,Infirmière praticienne en médecine familiale
+29-1171,Gerontological Nurse Practitioner,Infirmière praticienne en gérontologie
+29-1181,Clinical Audiologist,Audiologiste clinique
+29-1181,Pediatric Audiologist,Audiologiste pédiatrique
+29-1211,Ambulatory Anesthesiologist,Anesthésiste ambulatoire
+29-1211,Obstetrical Anesthesiologist,Anesthésiste obstétrical
+29-1212,Electrophysiology Cardiologist,Cardiologue en électrophysiologie
+29-1212,Interventional Cardiologist,Cardiologue interventionnel
+29-1213,Dermatopathologist,Dermatopathologiste
+29-1213,Procedural Dermatologist,Dermatologue procédural
+29-1214,Critical Care Physician,Médecin de soins intensifs
+29-1214,Disaster Medicine Physician,Médecin en médecine des catastrophes
+29-1215,Family Practice Physician,Médecin de famille
+29-1215,General Practitioner,Médecin généraliste
+29-1216,General Internist,Interniste général
+29-1216,Internal Medicine Physician,Médecin en médecine interne
+29-1216,Internist,Interniste
+29-1217,Clinical Neuromuscular Pathologist,Pathologiste neuromusculaire clinique
+29-1217,Epileptologist,Épileptologue
+29-1217,Headache Specialist,Spécialiste des maux de tête
+29-1218,Gynecological Oncologist,Oncologue gynécologique
+29-1218,Maternal-Fetal Medicine Physician,Médecin en médecine materno-fœtale
+29-1218,OB Specialist,Spécialiste OB
+29-1218,OB/GYN,OBSTÉTRIQUE/GYNÉCOLOGUE
+29-1221,Internal Medicine Pediatrician,Pédiatre en médecine interne
+29-1221,Paediatrician,Pédiatre
+29-1221,Pediatric Cardiologist,Cardiologue pédiatrique
+29-1221,Pediatrist,Pédiatre
+29-1221,Primary Care Pediatrician,Pédiatre de soins primaires
+29-1222,Clinical Pathologist,Pathologiste clinique
+29-1222,Immunopathologist,Immunopathologiste
+29-1222,Neuropathologist,Neuropathologiste
+29-1223,Addiction Psychiatrist,Psychiatre de la toxicomanie
+29-1223,Forensic Psychiatrist,Psychiatre légiste
+29-1223,Geriatric Psychiatrist,Psychiatre gériatrique
+29-1223,Neuropsychiatrist,Neuropsychiatre
+29-1224,Diagnostic Radiologist,Radiologue diagnostique
+29-1224,Interventional Radiologist,Radiologue interventionnel
+29-1229,Gastroenterologist,Gastro-entérologue
+29-1229,Oncologist,Oncologue
+29-1229,Pulmonologist,Pneumologue
+29-1241,Cornea and External Disease Physician,Cornée et médecin externe des maladies
+29-1241,Viteroretinal Disease Physician,Médecin spécialiste des maladies vitérorétiniennes
+29-1242,Joint Preservationist,Co-conservateur
+29-1242,Orthopedic Sports Medicine Physician,Médecin orthopédiste en médecine du sport
+29-1243,Pediatric Neurosurgeon,Neurochirurgien pédiatrique
+29-1243,Pediatric Vascular Surgeon,Chirurgien vasculaire pédiatrique
+29-1249,Neurological Surgeon,Chirurgien neurologique
+29-1249,Otolaryngologist,Otolaryngologiste
+29-1249,Thoracic Surgeon,Chirurgien thoracique
+29-1249,Urologist,Urologue
+29-1291,Acupuncture Physician,Médecin d'acupuncture
+29-1291,Licensed Acupuncturist,Acupuncteur agréé
+29-1292,Oral Hygienist,Hygiéniste buccale
+29-1292,Registered Dental Hygienist,Hygiéniste dentaire agréée
+29-1299,Homeopathic Doctor,Médecin homéopathique
+29-1299,Naturopathic Physician,Médecin naturopathe
+29-2011,Blood Bank Laboratory Technologist,Technologue de laboratoire de banque de sang
+29-2011,Cytogenetic Technologist,Technologue en cytogénétique
+29-2011,Immunohematologist,Immunohématologue
+29-2012,Histology Technician,Technicien en histologie
+29-2012,Pathology Technician,Technicien en pathologie
+29-2012,Serology Technician,Technicien en sérologie
+29-2031,Cardiac Catheterization Technologist,Technologue en cathétérisme cardiaque
+29-2031,EKG Technician,Technicien ECG
+29-2032,Echocardiographer,Échocardiographe
+29-2032,Registered Diagnostic Medical Sonographer,Échographiste médical diagnostique agréé
+29-2032,Ultrasound Technologist,Technologue en échographie
+29-2033,Certified Nuclear Medicine Technologist,Technologue certifié en médecine nucléaire
+29-2033,Nuclear Cardiology Technologist,Technologue en cardiologie nucléaire
+29-2033,Radioisotope Technologist,Technologue en radio-isotopes
+29-2034,Computed Tomography (CT) Scanner Operator,Opérateur de scanner de tomodensitométrie (CT)
+29-2034,X-Ray Technician,Technicien en radiologie
+29-2035,Computed Tomography/Magnetic Resonance Imaging (CT/MRI) Technologist,Technologue en tomodensitométrie/imagerie par résonance magnétique (TDM/IRM)
+29-2035,MRI Technologist,Technologue en IRM
+29-2036,Certified Medical Dosimetrist,Dosimétriste médical certifié
+29-2036,Qualified Medical Dosimetrist,Dosimétriste médical qualifié
+29-2042,EMT,Emt
+29-2043,Flight Paramedic,Ambulancier paramédical de vol
+29-2051,Dietary Technician,Technicien diététique
+29-2051,Registered Diet Technician,Technicien en alimentation professionnelle
+29-2052,Certified Pharmacy Technician,Technicien en pharmacie certifié
+29-2052,Pharmacist Technician,Pharmacien Technicien
+29-2053,Behavioral Health Technician,Technicien en santé comportementale
+29-2053,Mental Health Technician,Technicien en santé mentale
+29-2055,Certified Surgical Technologist,Technologue chirurgical certifié
+29-2055,OR Tech,OU Tech
+29-2055,Surgical Scrub Technologist,Technologue en gommage chirurgical
+29-2056,Veterinary Laboratory Technician,Technicien de laboratoire vétérinaire
+29-2056,Veterinary Surgery Technologist,Technologue en chirurgie vétérinaire
+29-2056,Veterinary X-Ray Operator,Opérateur de radiographie vétérinaire
+29-2057,Ocular Care Technologist,Technologue en soins oculaires
+29-2057,Ophthalmic Technologist,Technologue en ophtalmologie
+29-2061,LPN,Lpn
+29-2061,LVN,LVN
+29-2061,Pediatric Licensed Practical Nurse,Infirmière auxiliaire autorisée en pédiatrie
+29-2072,Health Information Coder,Codeur d'information sur la santé
+29-2072,Medical Bill Coder,Codeur de factures médicales
+29-2081,Contact Lens Fitter,Installateur de lentilles de contact
+29-2081,Eyeglass Fitter,Installateur de lunettes
+29-2091,Artificial Limb Fitter,Ajusteur de membre artificiel
+29-2091,Certified Orthotic Fitter,Ajusteur d'orthèses certifié
+29-2091,Pedorthist,Pédorthiste
+29-2092,Hearing Aid Fitter,Installateur d'aides auditives
+29-2092,Hearing Aid Technician,Technicien en aides auditives
+29-2092,Hearing Instrument Specialist,Spécialiste des aides auditives
+29-2099,Dialysis Technician,Technicien en dialyse
+29-2099,Electroencephalogram (EEG) Technologist,Technologue en électroencéphalogramme (EEG)
+29-2099,Electroneurodiagnostic Technologist,Technologue en électronéurodiagnostic
+29-2099,Polysomnograph Tech,Technologie polysomnographe
+29-9021,Cancer Registrar,Registraire du cancer
+29-9021,Health Informatics Specialist,Spécialiste en informatique de santé
+29-9021,Health Information Analyst,Analyste de l'information sur la santé
+29-9091,Certified Athletic Trainer,Entraîneur sportif certifié
+29-9092,Chromosomal Disorders Counselor,Conseiller en troubles chromosomiques
+29-9092,Mitochondrial Disorders Counselor,Conseiller en troubles mitochondriaux
+29-9092,Prenatal Genetic Counselor,Conseiller en génétique prénatale
+29-9093,Surgical First Assistant,Premier assistant chirurgical
+29-9099,Podiatric Technician,Technicien en podiatrie
+29-9099,Traditional Chinese Herbalist,Herboriste chinois traditionnel
+31-1121,Home Health Attendant,Préposé à la santé à domicile
+31-1121,Home Hospice Aide,Aide en soins palliatifs à domicile
+31-1122,Blind Escort,Escorte aveugle
+31-1122,Elderly Companion,Compagnon âgé
+31-1122,Geriatric Personal Care Aide,Aide-soignante en gériatrie
+31-1131,Certified Nurse Aide,Aide-infirmière certifiée
+31-1131,Certified Nursing Assistant,Infirmière auxiliaire certifiée
+31-1131,Nursing Care Attendant,Préposée aux soins infirmiers
+31-1132,Hospital Orderly,Hospital Orderly
+31-1132,Medical Orderly,Aide-soignant
+31-1132,Surgical Orderly,Chirurgie ordonnée
+31-1133,Mental Health Orderly,Santé mentale ordonnée
+31-1133,Psychiatric Nursing Aide,Aide-soignante psychiatrique
+31-1133,Psychiatric Technician Assistant,Assistant technicien psychiatrique
+31-2011,Certified Occupational Therapy Assistant,Assistante certifiée en ergothérapie
+31-2011,Licensed Occupational Therapy Assistant,Assistante en ergothérapie agréée
+31-2012,Occupational Rehabilitation Aide,Aide à la réadaptation professionnelle
+31-2012,Occupational Therapist Aide,Aide-ergothérapeute
+31-2021,Licensed Physical Therapist Assistant,Assistant physiothérapeute agréé
+31-2021,Physiotherapy Assistant,Assistante en physiothérapie
+31-2022,Clinical Rehabilitation Aide,Aide en réadaptation clinique
+31-2022,Physical Therapy Aide,Aide en physiothérapie
+31-9011,Deep Tissue Massage Therapist,Massothérapeute des tissus profonds
+31-9011,Licensed Massage Therapist,Massothérapeute agréé
+31-9011,Swedish Masseuse,Masseuse suédoise
+31-9091,Certified Dental Assistant,Assistante dentaire certifiée
+31-9091,Orthodontic Assistant,Assistant orthodontique
+31-9092,Chiropractic Assistant,Assistant chiropratique
+31-9092,Morgue Attendant,Préposé à la morgue
+31-9092,Orthopedic Cast Specialist,Spécialiste en plâtre orthopédique
+31-9093,Central Sterile Supply Technician,Technicien d'approvisionnement stérile central
+31-9093,Sterilization Specialist,Spécialiste en stérilisation
+31-9094,Medical Stenographer,Sténographe médical
+31-9094,Medical Transcriber,Transcripteur médical
+31-9094,Pathology Transcriptionist,Transcripteur en pathologie
+31-9095,Pharmacist Assistant,Pharmacien adjoint
+31-9095,Pharmacy Clerk,Commis en pharmacie
+31-9095,Prescription Clerk,Commis aux ordonnances
+31-9096,Veterinarian Helper,Vétérinaire assistant
+31-9096,Veterinary Attendant,Préposé vétérinaire
+31-9097,Phlebotomy Technician,Technicien en phlébotomie
+31-9097,Venipuncturist,Venipuncturiste
+31-9099,Ortho/Prosthetic Aide,Ortho/Prothèse Aide
+33-1011,Corrections Sergeant,Sergent correctionnel
+33-1011,Prison Guard Supervisor,Superviseur de gardien de prison
+33-1012,Commanding Officer Homicide Squad,Commandant de l'Escouade des homicides
+33-1012,Detective Lieutenant,Lieutenant détective
+33-1012,Police Lieutenant,Police Lieutenant
+33-1012,Traffic Sergeant,Sergent de la circulation
+33-1021,Fire Lieutenant,Lieutenant de pompiers
+33-1021,Municipal Fire Fighting and Prevention Supervisor,Superviseur municipal de la lutte et de la prévention des incendies
+33-1021,Supervising Fire Marshal,Superviseur du commissaire des incendies
+33-1091,Loss Prevention Supervisor,Superviseur de la prévention des pertes
+33-1091,Security Guard Supervisor,Superviseur des agents de sécurité
+33-1091,TSA Screener Supervisor,Superviseur de l'écran TSA
+33-1099,Animal Cruelty Investigation Supervisor,Superviseur des enquêtes sur la cruauté envers les animaux
+33-2011,Fire Engine Pump Operator,Opérateur de pompe de pompier
+33-2011,Forest Firefighter,Pompier forestier
+33-2011,Smoke Jumper,Cavalier de fumée
+33-2021,Certified Vehicle Fire Investigator,Enquêteur certifié en incendie de véhicule
+33-2021,Fire Hazard Inspector,Inspecteur des risques d'incendie
+33-2021,Fire Prevention Inspector,Inspecteur de la prévention des incendies
+33-2022,Environmental Protection Fire Control Officer,Agent de contrôle des incendies de la protection de l'environnement
+33-2022,Forest Fire Control Officer,Agent de contrôle des incendies de forêt
+33-2022,Wildfire Prevention Specialist,Spécialiste de la prévention des feux de forêt
+33-3011,Court Bailiff,Huissier de justice
+33-3011,Court Security Officer,Agent de sécurité de la Cour
+33-3011,Deputy Bailiff,Huissier de justice adjoint
+33-3012,Certified Detention Deputy,Adjoint à la détention certifiée
+33-3012,Juvenile Corrections Officer,Agent correctionnel pour mineurs
+33-3012,Prison Guard,Gardien de prison
+33-3021,Deputy United States Marshal,Maréchal adjoint des États-Unis
+33-3021,Homicide Detective,Détective d'homicide
+33-3021,Narcotics Investigator,Enquêteur sur les stupéfiants
+33-3031,Conservation Enforcement Officer,Agent d'application de la loi sur la conservation
+33-3031,Wildlife and Game Protector,Protecteur de la faune et du gibier
+33-3031,Wildlife Officer,Agent de la faune
+33-3041,Meter Maid,Femme de ménage
+33-3041,Parking Enforcement Officer,Agent d'application de la loi sur le stationnement
+33-3051,Border Patrol Officer,Agent de patrouille frontalière
+33-3051,Campus Police Officer,Agent de police du campus
+33-3051,Motorcycle Police,Police de moto
+33-3051,Park Police,Police du parc
+33-3051,State Trooper,Soldat d'État
+33-3052,Railroad Detective,Détective des chemins de fer
+33-3052,Track Patrol,Patrouille de piste
+33-3052,Transit Authority Police,Transit Authority Police
+33-9011,Animal Control Officer,Agent de contrôle des animaux
+33-9011,Animal Warden,Gardien d'animaux
+33-9011,Dog Catcher,Attrape-chiens
+33-9011,Humane Officer,Officier humain
+33-9021,Private Eye,Détective privé
+33-9021,Skip Tracer,Ignorer le traceur
+33-9021,Store Detective,Détective de magasin
+33-9031,Casino Investigator,Enquêteur de casino
+33-9031,Casino Surveillance Officer,Agent de surveillance des casinos
+33-9031,Gambling Monitor,Moniteur de jeu
+33-9032,Bank Guard,Garde de banque
+33-9032,Bodyguard,Garde du corps
+33-9032,Bouncer,Videur
+33-9091,Construction Site Crossing Guard,Brigadier de chantier
+33-9091,School Traffic Guard,Garde de la circulation scolaire
+33-9092,Beach Lifeguard,Sauveteur de plage
+33-9092,Outdoor Emergency Care Technician,Technicien en soins d'urgence extérieurs
+33-9093,Airport Baggage Screener,Contrôle des bagages d'aéroport
+33-9093,Airport Security Screener,Contrôle de sécurité de l'aéroport
+33-9093,Transportation Security Administration (TSA) Screener,Filtre de la Transportation Security Administration (TSA)
+33-9093,Transportation Security Officer,Agent de sûreté des transports
+33-9094,Bus Monitor,Moniteur de bus
+33-9099,Warrant Server,Serveur de mandat
+35-1011,Executive Chef,Chef exécutif
+35-1011,Pastry Chef,Pâtissier
+35-1011,Sous Chef,Sous-chef
+35-1012,Banquet Supervisor,Superviseur de banquet
+35-1012,Bar Manager,Gérant de bar
+35-1012,Kitchen Supervisor,Superviseur de cuisine
+35-2011,Fast Food Fry Cook,Fast Food Fry Cook
+35-2012,Camp Cook,Camp Cuisinier
+35-2012,Galley Cook,Cuisinier de cuisine
+35-2012,Mess Cook,Cuisinier de désordre
+35-2012,School Cook,Cuisinier d'école
+35-2013,Certified Personal Chef,Chef personnel certifié
+35-2013,Private Chef,Chef privé
+35-2014,Banquet Cook,Cuisinier de banquet
+35-2014,Line Cook,Cuisinier à la chaîne
+35-2014,Saucier,Saucier
+35-2015,Griddle Cook,Cuisson à la plaque chauffante
+35-2019,Falafel Cart Cook,Falafel Cart Cuisinier
+35-2019,Fraternity House Cook,Maison de fraternité Cook
+35-2021,Fruit and Vegetable Parer,Parer de fruits et légumes
+35-2021,Salad Maker,Saladier
+35-2021,Sandwich Maker,Fabricant de sandwichs
+35-3011,Barkeep,Barman
+35-3011,Mixologist,Mixologue
+35-3011,Taproom Attendant,Préposé à la salle de robinetterie
+35-3023,Barista,Barista
+35-3023,Cafeteria Server,Serveur de cafétéria
+35-3023,Ice Cream Server,Serveur de crème glacée
+35-3023,Mess Attendant,Préposé au mess
+35-3023,Snack Bar Attendant,Préposé au snack-bar
+35-3031,Cocktail Server,Serveur de cocktails
+35-3031,Dining Car Server,Serveur de voiture-restaurant
+35-3031,Wine Steward,Sommelier
+35-3041,Boat Hop,Bateau Hop
+35-3041,Hospital Food Service Worker,Travailleur des services alimentaires de l'hôpital
+35-3041,Room Service Food Server,Service en chambre Serveur de restauration
+35-9011,Bar Back,Barre Arrière
+35-9011,Busser,Busser
+35-9011,Lunchroom Attendant,Préposé à la salle à manger
+35-9021,Dish Room Worker,Ouvrier de la salle de vaisselle
+35-9021,Silverware Cleaner,Nettoyeur d'argenterie
+35-9031,Dining Room Host,Hôte de salle à manger
+35-9031,Maitre D',Maître D'
+35-9099,Kitchen Steward,Intendant de cuisine
+37-1011,Building Cleaning Supervisor,Superviseur du nettoyage des bâtiments
+37-1011,Cleaning Staff Supervisor,Superviseur du personnel de nettoyage
+37-1011,Custodial Supervisor,Superviseur de garde
+37-1012,Grounds Maintenance Supervisor,Superviseur de l'entretien des terrains
+37-1012,Head Greenskeeper,Gardien en chef des Verts
+37-1012,Horticultural Services Supervisor,Superviseur des services horticoles
+37-2011,Industrial Plant Custodian,Gardien d'installations industrielles
+37-2011,School Custodian,Gardien de l'école
+37-2011,Window Washer,Lave-vitres
+37-2012,Chambermaid,Femme de chambre
+37-2012,House Cleaner,Nettoyeur de maison
+37-2012,Housekeeping Staff,Personnel d'entretien ménager
+37-2019,Building Pressure Washer,Nettoyeur haute pression de bâtiment
+37-2019,Chimney Sweeper,Ramoneur
+37-2021,Exterminator,Exterminateur
+37-2021,Fumigator,Fumigateur
+37-2021,Rodent Exterminator,Exterminateur de rongeurs
+37-3011,Greenskeeper,Gardien de légumes
+37-3011,Hedge Trimmer,Haie
+37-3011,Lawn Caretaker,Gardien de pelouse
+37-3011,Shrub Planter,Planteur d'arbustes
+37-3012,Fruit Sprayer,Pulvérisateur de fruits
+37-3012,Weed Sprayer,Pulvérisateur de mauvaises herbes
+37-3013,Tree Specialist,Spécialiste de l'arbre
+37-3013,Tree Surgeon,Chirurgien de l'arbre
+37-3013,Utility Arborist,Arboriculteur utilitaire
+37-3019,Trailhead Maintenance Worker,Préposé à l'entretien des sentiers
+37-3019,Tree Trimmer Helper,Aide à l'élagueur d'arbres
+39-1013,Cardroom Supervisor,Superviseur de salle de cartes
+39-1013,Casino Slot Supervisor,Superviseur des machines à sous de casino
+39-1013,Electronic Gambling Device Supervisor,Superviseur d'appareils de jeu électronique
+39-1013,Pit Boss,Patron de fosse
+39-1013,Slot Key Person,Personne clé de la fente
+39-1013,Table Games Supervisor,Superviseur des jeux de table
+39-1014,Arcade Supervisor,Superviseur d'arcade
+39-1014,Caddy Master,Caddy Maître
+39-1014,Recreation Attendant Supervisor,Superviseur des préposés aux loisirs
+39-1022,Animal Trainer Supervisor,Superviseur dresseur d'animaux
+39-1022,Child Care Worker Supervisor,Superviseur des travailleurs en garde d'enfants
+39-1022,Hair Salon Supervisor,Superviseur de salon de coiffure
+39-2011,Guide Dog Trainer,Dresseur de chiens-guides
+39-2011,Horse Breaker,Briseur de chevaux
+39-2011,Marine Mammal Trainer,Entraîneur de mammifères marins
+39-2021,Animal Shelter Worker,Travailleur de refuge pour animaux
+39-2021,Dog Groomer,Toiletteur pour chiens
+39-2021,Kennel Worker,Travailleur de chenil
+39-2021,Zookeeper,Gardien de zoo
+39-3011,Blackjack Dealer,Croupier de Blackjack
+39-3011,Craps Dealer,Revendeur de craps
+39-3011,Poker Dealer,Croupier de poker
+39-3011,Roulette Dealer,Croupier de roulette
+39-3012,Betting Clerk,Commis aux paris
+39-3012,Bingo Worker,Travailleur de bingo
+39-3012,Keno Runner,Coureur de Keno
+39-3012,Race Book Writer,Rédacteur de livre de course
+39-3019,Pit Clerk,Commis aux fosses
+39-3019,Proposition Player,Joueur de proposition
+39-3019,Shill,Artificielles
+39-3021,Film Projector Operator,Opérateur de projecteur de film
+39-3021,Movie Projectionist,Projectionniste de films
+39-3031,Theater Usher,Théâtre Usher
+39-3031,Ticket Collector,Contrôleur
+39-3091,Arcade Attendant,Préposé à l'arcade
+39-3091,Golf Caddy,Golf Caddy
+39-3091,Ski Lift Operator,Opérateur de remontées mécaniques
+39-3092,Theatrical Wardrobe Dresser,Commode de garde-robe théâtrale
+39-3092,Wardrobe Attendant,Préposé à la garde-
+39-3093,Bathhouse Attendant,Préposé aux bains publics
+39-3093,Coat Checker,Vestiaire
+39-3093,Washroom Attendant,Préposé aux toilettes
+39-4011,Licensed Embalmer,Embaumeur sous licence
+39-4011,Restorative Art Embalmer,Embaumeur d'art réparateur
+39-4012,Cremator,Crémateur
+39-4012,Crematory Operator,Opérateur crématoire
+39-4021,Funeral Home Assistant,Assistante de salon funéraire
+39-4021,Mortician Helper,Morticien Assistant
+39-4021,Pallbearer,Pallbearer
+39-4031,Certified Mortician,Morticien certifié
+39-4031,Funeral Arranger,Arrangeur funéraire
+39-5011,Barber Apprentice,Apprenti barbier
+39-5011,Master Barber,Maître Barbier
+39-5012,Beautician,Esthéticien
+39-5012,Wig Stylist,Styliste de perruques
+39-5091,Special Effects Makeup Artist,Maquilleuse d'effets spéciaux
+39-5092,Fingernail Sculptor,Sculpteur d'ongles
+39-5092,Nail Technician,Prothésiste ongulaire
+39-5093,Scalp Treatment Specialist,Spécialiste du traitement du cuir chevelu
+39-5093,Shampoo Assistant,Assistant shampooing
+39-5094,Electrolysis Operator,Opérateur d'électrolyse
+39-5094,Facialist,Facialiste
+39-5094,Medical Esthetician,Esthéticienne médicale
+39-6011,Bellstaff,Bellstaff (en anglais seulement)
+39-6011,Hotel Baggage Handler,Bagagiste de l'hôtel
+39-6011,Skycap,Skycap
+39-6012,Activities Concierge,Activités Concierge
+39-6012,Hotel Concierge,Concierge de l'hôtel
+39-6012,Hotel Guest Service Agent,Agent du service à la clientèle de l'hôtel
+39-7011,Historical Site Guide,Guide du site historique
+39-7011,Museum Guide,Guide du musée
+39-7011,Sightseeing Guide,Guide touristique
+39-7012,Cruise Director,Directeur de croisière
+39-7012,River Expedition Guide,Guide d'expédition fluviale
+39-9011,Au Pair,Pair
+39-9011,Daycare Provider,Fournisseur de services de garde
+39-9011,Nanny,Nounou
+39-9031,Aerobics Instructor,Instructeur d'aérobic
+39-9031,Personal Trainer,Entraîneur personnel
+39-9031,Yoga Instructor,Instructeur de yoga
+39-9032,Camp Counselor,Moniteur de camp
+39-9032,Recreational Activities Aide,Aide aux activités récréatives
+39-9041,Dormitory Counselor,Conseiller en dortoir
+39-9041,House Parent,Parent de la maison
+39-9041,Residence Life Coordinator,Coordonnatrice de la vie en résidence
+39-9099,Butler,Majordome
+39-9099,House Sitter,Gardienne de maison
+39-9099,Shoe Shiner,Cireur de chaussures
+39-9099,Valet,Valet
+41-1011,Cashier Supervisor,Superviseur de caisse
+41-1011,Delicatessen Department Manager,Chef de département charcuterie
+41-1012,Insurance Sales Supervisor,Superviseur des ventes d'assurance
+41-1012,Real Estate Sales Supervisor,Superviseur des ventes immobilières
+41-1012,Telemarketer Supervisor,Superviseur télévendeur
+41-2011,Cash Register Operator,Opérateur de caisse enregistreuse
+41-2011,Grocery Checker,Vérificateur d'épicerie
+41-2011,Toll Collector,Percepteur de péage
+41-2012,Mutuel Teller,Mutuel Teller
+41-2012,Slot Attendant,Préposé à l'emplacement
+41-2021,Automotive Service Writer,Rédacteur de service automobile
+41-2021,Car Rental Agent,Agent de location de voiture
+41-2021,Dry Cleaning Counter Clerk,Commis au comptoir de nettoyage à sec
+41-2022,Auto Parts Salesperson,Vendeur de pièces automobiles
+41-2022,Electronic Parts Salesperson,Vendeur de pièces électroniques
+41-2031,Used Car Salesperson,Vendeur de voitures d'occasion
+41-2031,Women's Apparel Salesperson,Vendeur de vêtements pour femmes
+41-3011,Advertising Account Executive,Chargé de compte publicitaire
+41-3011,Display Advertising Sales Representative,Représentant des ventes de publicité display
+41-3011,Yellow Pages Space Salesperson,Vendeur de l'espace Pages Jaunes
+41-3021,Life Insurance Salesperson,Vendeur d'assurance-vie
+41-3021,Pension Agent,Pension Agent
+41-3031,Foreign Exchange Trader,Négociant en devises
+41-3031,Investment Banker,Banquier
+41-3031,Securities Trader,Négociant en valeurs mobilières
+41-3031,Stock Broker,Courtier
+41-3041,Corporate Travel Expert,Expert en voyages d'affaires
+41-3041,Travel Service Consultant,Consultant en services de voyage
+41-3091,Business Services Sales Representative,Représentant des ventes des services aux entreprises
+41-3091,Membership Solicitor,Avocat des membres
+41-3091,Pest Control Service Sales Agent,Agent de vente du service de lutte antiparasitaire
+41-4011,Pharmaceutical Sales Representative,Représentant des ventes pharmaceutiques
+41-4011,Surgical Instruments Sales Representative,Représentant des ventes d'instruments chirurgicaux
+41-4011,Wholesale Ultrasonic Equipment Salesperson,Vendeur d'équipement à ultrasons en gros
+41-4012,Hotel Supplies Salesperson,Vendeur de fournitures d'hôtel
+41-4012,Pulpwood Dealer,Concessionnaire de bois à pâte
+41-4012,Wholesale Diamond Broker,Courtier en diamants en gros
+41-9011,Home Demonstrator,Home Démonstrateur
+41-9011,In-Store Demonstrator,Démonstrateur en magasin
+41-9012,Fashion Model,Modèle de mode
+41-9012,Hand Model,Modèle à la main
+41-9012,Photographer's Model,Modèle de photographe
+41-9021,Licensed Real Estate Broker,Courtier immobilier agréé
+41-9022,Apartment Rental Agent,Agent de location d'appartement
+41-9022,Right of Way Agent,Agent de droit de passage
+41-9031,Aerospace Products Sales Engineer,Ingénieur commercial de produits aérospatiaux
+41-9031,Missile Navigation Systems Sales Engineer,Ingénieur commercial en systèmes de navigation de missiles
+41-9031,Nuclear Equipment Sales Engineer,Ingénieur commercial d'équipement nucléaire
+41-9041,Telemarketing Sales Representative,Représentant des ventes de télémarketing
+41-9041,Telephone Solicitor,Avocat par téléphone
+41-9091,Newspaper Carrier,Transporteur de journaux
+41-9091,Peddler,Colporteur
+41-9091,Souvenir Street Vendor,Vendeur de rue souvenirs
+41-9099,Auctioneer,Commissaire-priseur
+41-9099,Blood Donor Recruiter,Recruteur de donneurs de sang
+41-9099,Pawn Shop Clerk,Commis de prêteur sur gages
+41-9099,Personal Shopper,Personal Shopper
+41-9099,Store Gift Wrap Associate,Associé de l'emballage cadeau de la boutique
+43-1011,Clerical Supervisor,Superviseur de bureau
+43-1011,Payroll Supervisor,Superviseur de la paie
+43-1011,Teller Supervisor,Superviseur de guichet
+43-2011,Private Branch Exchange Operator,Opérateur d'échange de succursales privées
+43-2011,Telephone Answering Service Operator,Opérateur de service de répondeur téléphonique
+43-2011,Telephone Switchboard Operator,Standardiste téléphonique
+43-2021,Directory Assistance Operator,Opérateur d'assistance annuaire
+43-2021,Information Operator,Opérateur d'information
+43-2021,Long Distance Operator,Opérateur longue distance
+43-2099,Radio Operator,Opérateur radio
+43-3011,Collection Agent,Agent de recouvrement
+43-3011,Debt Collector,Recouvrement
+43-3011,Repossessor,Reprise de possession
+43-3021,Invoice Control Clerk,Commis au contrôle des factures
+43-3021,Statement Processor,Processeur d'instructions
+43-3031,Accounts Receivable Clerk,Commis aux comptes débiteurs
+43-3031,Bookkeeper,Comptable
+43-3031,Mortgage Accounting Clerk,Commis comptable hypothécaire
+43-3041,Cage Cashier,Caissier de cage
+43-3041,Casino Cashier,Caisse du Casino
+43-3051,Time and Attendance Clerk,Commis au temps et à l'assistance
+43-3051,Timekeeper,Chronométreur
+43-3061,Procurement Assistant,Assistante achats
+43-3061,Purchasing Clerk,Commis aux achats
+43-3071,Foreign Exchange Clerk,Commis aux changes
+43-3071,Money Order Clerk,Commis aux mandats
+43-3071,Securities Teller,Caissier de valeurs mobilières
+43-3099,Bank Vault Attendant,Préposé au coffre-fort bancaire
+43-3099,Financial Reserve Clerk,Commis de la réserve financière
+43-3099,Safety Deposit Clerk,Commis au dépôt de sécurité
+43-4011,Commodities Clerk,Commis aux produits de base
+43-4011,Dividend Clerk,Commis aux dividendes
+43-4021,Fan Mail Editor,Éditeur de courrier de fans
+43-4021,Medicare Correspondence Representative,Représentant par correspondance de Medicare
+43-4031,Circuit Court Clerk,Greffier de la Cour de circuit
+43-4031,Motor Vehicle License Clerk,Commis au permis de conduire de véhicule automobile
+43-4031,Warrant Clerk,Commis au mandat
+43-4041,Charge Authorizer,Chargeur
+43-4041,Commercial Credit Reviewer,Examinateur de crédit commercial
+43-4041,Credit Rating Checker,Vérificateur de cote de crédit
+43-4051,Customer Complaint Clerk,Commis aux plaintes des clients
+43-4051,Passenger Relations Representative,Représentant des relations avec les passagers
+43-4051,Warranty Clerk,Commis à la garantie
+43-4061,Medicare Interviewer,Intervieweur de l'assurance-maladie
+43-4061,Public Housing Interviewer,Intervieweur en logement social
+43-4061,Unemployment Benefits Claims Taker,Demandeur d'allocations de chômage
+43-4071,Document Clerk,Commis aux documents
+43-4071,Records Clerk,Commis aux dossiers
+43-4081,Hotel Front Desk Clerk,Réceptionniste de l'hôtel
+43-4081,Hotel Registration Clerk,Commis à l'enregistrement de l'hôtel
+43-4111,Census Taker,Recenseur
+43-4111,Market Research Interviewer,Intervieweur d'études de marché
+43-4111,Outpatient Interviewing Clerk,Commis à l'entrevue externe
+43-4121,Braille and Talking Books Clerk,Commis au braille et aux livres parlants
+43-4121,Circulation Clerk,Commis à la circulation
+43-4121,Microfilm Clerk,Commis aux microfilms
+43-4131,Loan Processor,Processeur de prêt
+43-4131,Mortgage Loan Closer,Prêt hypothécaire Closer
+43-4141,Banking Services Clerk,Commis aux services bancaires
+43-4141,New Accounts Banking Representative,Représentant bancaire des nouveaux comptes
+43-4151,Catalogue Clerk,Commis au catalogue
+43-4151,Classified Ad Clerk,Commis aux petites annonces
+43-4151,Subscription Clerk,Commis aux abonnements
+43-4161,HR Clerk,Commis aux RH
+43-4161,Personnel Clerk,Commis du personnel
+43-4171,Appointment Clerk,Commis aux nominations
+43-4171,Front Desk Receptionist,Réceptionniste
+43-4171,Land Leasing Information Clerk,Commis à l'information sur la location de terrains
+43-4181,Airline Ticket Agent,Agent de billets d'avion
+43-4181,Gate Agent,Agent de porte
+43-4181,Hotel Reservationist,Hôtel Reservationist
+43-4181,Train Reservation Clerk,Commis à la réservation de train
+43-4199,Election Clerk,Greffier électoral
+43-4199,Probate Clerk,Commis aux successions
+43-4199,Student Admissions Clerk,Commis aux admissions des étudiants
+43-5011,Cargo Router,Routeur de chargement
+43-5011,Freight Shipping Agent,Agent maritime de fret
+43-5021,Bicycle Messenger,Messager à vélo
+43-5021,Laboratory Courier,Coursier de laboratoire
+43-5021,Office Runner,Office Runner
+43-5031,911 Operator,Opérateur 911
+43-5031,Emergency Operator,Opérateur d'urgence
+43-5031,Public Safety Dispatcher,Répartiteur de la sécurité publique
+43-5031,Public Safety Telecommunicator,Télécommunicateur de sécurité publique
+43-5032,Taxicab Dispatcher,Répartiteur de taxis
+43-5032,Tow Truck Dispatcher,Répartiteur de dépanneuse
+43-5032,Train Dispatcher,Répartiteur de train
+43-5041,Electric Meter Reader,Lecteur de compteur électrique
+43-5041,Gas Meter Reader,Lecteur de compteur de gaz
+43-5041,Water Meter Reader,Lecteur de compteur d'eau
+43-5051,Bulk Mail Clerk,Commis au courrier en vrac
+43-5051,Parcel Post Clerk,Commis à la poste de colis
+43-5051,Postal Service Window Clerk,Commis de guichet du service postal
+43-5052,Letter Carrier,Facteur
+43-5052,Mail Deliverer,Livreur de courrier
+43-5052,Rural Route Carrier,Transporteur de route rurale
+43-5053,Flat Sorting Machine Clerk,Commis à la machine de tri à plat
+43-5053,Mail Forwarding System Markup Clerk,Commis au balisage du système de transfert de courrier
+43-5061,Expeditor,Expeditor
+43-5061,Material Control Clerk,Commis au contrôle des matériaux
+43-5061,Production Scheduler,Planificateur de production
+43-5071,Incoming Freight Clerk,Commis au fret entrant
+43-5071,Route Delivery Clerk,Commis à la livraison d'itinéraires
+43-5071,Store Receiving Clerk,Commis réceptionnaire de magasin
+43-5071,Warehouse Clerk,Commis d'entrepôt
+43-5111,Cheese Weigher,Peseuse à fromage
+43-5111,Scale Attendant,Préposé à l'échelle
+43-5111,Weighing Station Operator,Opérateur de station de pesage
+43-6011,Executive Assistant,Adjointe exécutive
+43-6012,Law Secretary,Secrétaire juridique
+43-6012,Legal Administrative Assistant,Adjointe administrative juridique
+43-6013,Dental Secretary,Secrétaire dentaire
+43-6013,Psychiatric Secretary,Secrétaire psychiatrique
+43-6014,Office Secretary,Secrétaire de bureau
+43-6014,Personal Secretary,Secrétaire personnel
+43-9021,Data Input Clerk,Commis à la saisie de données
+43-9021,Data Typist,Dactylographe de données
+43-9022,Clerk Typist,Commis dactylographe
+43-9022,Transcription Typist,Dactylographe de transcription
+43-9031,Desktop Publishing Specialist,Spécialiste de la publication assistée par ordinateur
+43-9031,Electronic Publisher,Éditeur électronique
+43-9041,Insurance Policy Issue Clerk,Commis à l'émission de police d'assurance
+43-9041,Underwriting Clerk,Commis à la souscription
+43-9051,Direct Mail Clerk,Commis au publipostage
+43-9051,Mailroom Clerk,Commis de salle du courrier
+43-9051,Packaging Clerk,Commis à l'emballage
+43-9061,Administrative Clerk,Commis administratif
+43-9061,Office Assistant,Compagnon de bureau
+43-9061,Real Estate Clerk,Commis immobilier
+43-9071,Coin Wrapping Machine Operator,Opérateur de machine d'emballage de pièces
+43-9071,Copy Machine Operator,Opérateur de machine à copier
+43-9071,Scanning Equipment Operators,Opérateurs d'équipement de numérisation
+43-9081,Braille Proofreader,Relecteur braille
+43-9081,Copy Reader,Lecteur de copie
+43-9081,Editorial Assistant,Assistante de rédaction
+43-9111,Actuarial Assistant,Assistante actuarielle
+43-9111,Statistical Clerk,Commis aux statistiques
+43-9199,Envelope Stuffer,Remplisseur d'enveloppes
+43-9199,Fingerprint Clerk,Commis aux empreintes digitales
+43-9199,Notary Public,Notaire
+45-1011,Corral Boss,Corral Boss
+45-1011,Cranberry Bog Supervisor,Superviseur de la tourbière de canneberges
+45-1011,Fish Hatchery Supervisor,Superviseur d'écloserie de poissons
+45-2011,Cattle Examiner,Examinateur de bovins
+45-2011,Grain Sampler,Échantillonneur de grains
+45-2011,Milk Tester,Testeur de lait
+45-2021,Dairy Husbandry Worker,Travailleur de l'élevage laitier
+45-2021,Horse Breeder,Éleveur de chevaux
+45-2041,Cotton Grader,Niveleuse de coton
+45-2041,Egg Grader,Classificateur d'œufs
+45-2041,Fruit Sorter,Trieur de fruits
+45-2041,Meat Grader,Niveleuse à viande
+45-2091,Combine Operator,Opérateur de moissonneuse-batt
+45-2091,Feed Mixer Operator,Opérateur de mélangeur d'alimentation
+45-2091,Hay Baler,Presse à foin
+45-2091,Tractor Operator,Conducteur de tracteur
+45-2092,Greenhouse Transplanter,Transplanteur de serre
+45-2092,Pecan Gatherer,Cueilleur de noix de pécan
+45-2092,Pepper Picker,Cueilleur de poivre
+45-2093,Cattle Brander,Brander de bovins
+45-2093,Sheep Shearer,Tondeur de moutons
+45-2093,Shrimp Pond Laborer,Ouvrier de l'étang de crevettes
+45-2099,Crop Scout,Scout des cultures
+45-2099,Irrigation Worker,Travailleur de l'irrigation
+45-3031,Bird Trapper,Trappeur d'oiseaux
+45-3031,Deer Hunter,Chasseur de cerfs
+45-3031,Predatory Animal Trapper,Trappeur d'animaux prédateurs
+45-3031,Seaweed Harvester,Récolteuse d'algues
+45-3031,Wild Oyster Harvester,Récolteuse d'huîtres sauvages
+45-4011,Forestry Laborer,Ouvrier forestier
+45-4011,Rangelands Conservation Laborer,Ouvrier de la conservation des parcours
+45-4011,Reforestation Worker,Travailleur du reboisement
+45-4011,Wetlands Conservation Laborer,Travailleur de la conservation des zones humides
+45-4021,Lumberjack,Bûcheron
+45-4021,Pulpwood Cutter,Coupe-bois à pâte
+45-4021,Timber Cutter,Coupe-bois
+45-4022,Grapple Skidder Operator,Opérateur de débardeur à grappin
+45-4022,Log Hauler,Transporteur de bûches
+45-4022,Logging Tractor Operator,Exploitant de tracteur forestier
+45-4022,Lumber Stacker Operator,Opérateur de gerbeur de bois
+45-4023,Log Check Scaler,Log Check Scaler
+45-4023,Timber Estimator,Estimateur de bois
+45-4023,Veneer Grader,Niveleuse de placage
+45-4029,Log Roper,Corde à bûches
+45-4029,Rigging Slinger,Slinger de gréement
+45-4029,Timber Hand,Main en bois
+47-1011,Carpenter Supervisor,Superviseur charpentier
+47-1011,Quarry Boss,Boss de carrière
+47-1011,Rig Supervisor,Superviseur de plate-forme
+47-1011,Solar Panel Installation Supervisor,Superviseur de l'installation de panneaux solaires
+47-2011,Boiler Installer,Installateur de chaudière
+47-2011,Boiler Mechanic,Mécanicien de chaudière
+47-2011,Boiler Tester,Testeur de chaudière
+47-2021,Adobe Layer,Calque Adobe
+47-2021,Brick Chimney Builder,Constructeur de cheminée en brique
+47-2021,Refractory Bricklayer,Maçon réfractaire
+47-2022,Curbstone Setter,Curbstone Setter
+47-2022,Granite Setter,Setter de granit
+47-2022,Monument Mason,Monument Maçon
+47-2031,Building Carpenter,Charpentier de bâtiment
+47-2031,Custom Wood Stair Builder,Constructeur d'escaliers en bois sur mesure
+47-2031,Wood Floor Layer,Couche de plancher de bois
+47-2041,Carpet Layer,Couche de tapis
+47-2041,Wall-to-Wall Carpet Installer,Installateur de tapis mur à mur
+47-2042,Composition Floor Layer,Composition Couche de sol
+47-2042,Cork Floor Installer,Installateur de sol en liège
+47-2042,Linoleum Installer,Installateur de linoléum
+47-2042,Shock-Absorption Floor Layer,Couche de sol à absorption de choc
+47-2043,Floor Sanding Machine Operator,Opérateur de ponceuse de sol
+47-2043,Floor Scraper,Grattoir de sol
+47-2043,Hardwood Finisher,Finisseur de bois franc
+47-2044,Ceramic Tile Installer,Installateur de carreaux de céramique
+47-2044,Hard Tile Setter,Régleur de tuiles dures
+47-2044,Marble Ceiling Installer,Installateur de plafond en marbre
+47-2044,Parquet Floor Layer,Couche de parquet
+47-2051,Cement Patcher,Patcher de ciment
+47-2051,Concrete Floor Installer,Installateur de plancher en béton
+47-2051,Concrete Swimming Pool Installer,Installateur de piscine en béton
+47-2053,Onyx-Chip Terrazzo Worker,Travailleur en terrazzo Onyx-Chip
+47-2053,Terrazzo Grinder,Broyeur terrazzo
+47-2053,Terrazzo Setter,Terrazzo Setter
+47-2061,Air Hammer Operator,Opérateur de marteau à air
+47-2061,Construction Craft Laborer,Ouvrier de construction
+47-2061,Construction Trench Digger,Creuseur de tranchées de construction
+47-2071,Asphalt Roller Operator,Opérateur de rouleaux d'asphalte
+47-2071,Blacktop-Paver Operator,Opérateur Blacktop-Paver
+47-2072,Hydraulic Pile Hammer Operator,Opérateur de marteau hydraulique
+47-2072,Vibratory Pile Driver,Pilote de pile vibrante
+47-2073,Construction Bulldozer Operator,Opérateur de bulldozer de construction
+47-2073,Road Grader,Niveleuse
+47-2073,Steam Shovel Operator,Opérateur de pelle à vapeur
+47-2081,Acoustical Ceiling Installer,Installateur de plafond acoustique
+47-2081,Drywall Finisher,Finisseur de cloisons sèches
+47-2081,Sheet Rock Hanger,Cintre à feuilles
+47-2082,Drywall Taper,Cloison sèche conique
+47-2082,Sheet Rock Taper,Feuille Rock Taper
+47-2082,Wall Taper,Conique murale
+47-2111,Electrical Sign Wirer,Wirer de signalisation électrique
+47-2111,Master Electrician,Maître électricien
+47-2111,Solar Photovoltaic Electrician,Électricien solaire photovoltaïque
+47-2121,Plate Glass Installer,Installateur de verre plat
+47-2121,Stained Glass Joiner,Menuisier de vitraux
+47-2131,Ceiling Insulation Blower,Ventilateur d'isolation de plafond
+47-2131,Composition Weatherboard Installer,Composition Weatherboard Installer
+47-2131,Interior Surface Insulation Worker,Travailleur en isolation de surface intérieure
+47-2132,Boiler Coverer,Couvre-chaudière
+47-2132,Pipe Coverer,Couvre-tuyaux
+47-2132,Pipe Insulator,Isolateur de tuyaux
+47-2141,Bridge Painter,Peintre de ponts
+47-2141,House Painter,Peintre en bâtiment
+47-2141,Traffic Line Painter,Peintre de lignes de circulation
+47-2142,Billboard Poster,Affiche d'affichage
+47-2142,Wall Covering Installer,Installateur de revêtement mural
+47-2142,Wallpaperer,Fond d'écran
+47-2151,Cast-Iron Drain Pipe Layer,Couche de tuyau de vidange en fonte
+47-2151,Trench Pipe Layer,Couche de tuyau de tranchée
+47-2151,Water Main Pipe Layer,Couche de conduite principale d'eau
+47-2152,Fire Sprinkler Installer,Installateur de gicleurs d'incendie
+47-2152,Solar Thermal Installer,Installateur solaire thermique
+47-2152,Sprinkler Fitter,Installateur de gicleurs
+47-2161,Ornamental Plasterer,Plâtrier ornemental
+47-2161,Stucco Worker,Ouvrier en stuc
+47-2161,Swimming Pool Plasterer,Plâtrier de piscine
+47-2171,Post Tensioning Ironworker,Ferronnerie post-tension
+47-2171,Steel Rod Buster,Tige d'acier Buster
+47-2181,Hot Tar Roofer,Couvreur de goudron chaud
+47-2181,Shingles Roofer,Couvreur de bardeaux
+47-2181,Terra Cotta Roofer,Couvreur en terre cuite
+47-2211,Heating,Chauffage
+47-2211,Ventilation,Ventilation
+47-2211,and Air Conditioning (HVAC) Sheet Metal Installer,et installateur de tôle de climatisation (CVC)
+47-2211,Sheet Metal Former,Forme de tôlerie
+47-2211,Tinsmith,Ferblantier
+47-2221,Bridge Ironworker,Ferronnier bridge
+47-2221,Precast Concrete Ironworker,Ferronnerie en béton préfabriqué
+47-2221,Wind Turbine Erector,Erecteur d'éolienne
+47-2231,Photovoltaic (PV) Installation Technician,Technicien d'installation photovoltaïque (PV)
+47-2231,Solar PV Installer,Installateur solaire photovoltaïque
+47-3011,Brick Carrier,Porte-briques
+47-3011,Brick Washer,Laveuse de briques
+47-3011,Refractory Tile Helper,Aide aux carreaux réfractaires
+47-3012,Carpenter Assistant,Assistant charpentier
+47-3012,Hardwood Floor Installation Helper,Aide à l'installation de planchers de bois franc
+47-3013,Marine Electrician Helper,Aide électricien marin
+47-3013,Stage Electrician Helper,Aide électricien de scène
+47-3014,Bridge Painter Helper,Aide-peintre de pont
+47-3014,Dry Plasterer Helper,Auxiliaire de plâtrier sec
+47-3014,Wallpaperer Helper,Aide wallpaperer
+47-3015,Industrial Gas Fitter Helper,Aide à l'installateur de gaz industriel
+47-3015,Marine Pipefitter Helper,Aide tuyauteur marin
+47-3015,Plumber Assistant,Assistant plombier
+47-3015,Water Main Installer Helper,Aide à l'installateur principal d'eau
+47-3016,Hot Tar Roofer Helper,Aide au couvreur de goudron chaud
+47-3016,Shingles Roofer Helper,Aide couvreur de bardeaux
+47-3016,Slate Roofer Helper,Aide couvreur d'ardoise
+47-3016,Terra Cotta Roofer Helper,Aide au couvreur en terre cuite
+47-3019,Cellulose Insulation Helper,Aide à l'isolation en cellulose
+47-3019,Drywall Hanger Helper,Aide au cintre pour cloisons sèches
+47-3019,Rod Buster Helper,Rod Buster Aide
+47-3019,Terrazzo Finisher Helper,Terrazzo Finisher Helper
+47-4011,Electrical Inspector,Inspecteur électrique
+47-4011,Elevator Inspector,Inspecteur d'ascenseurs
+47-4011,Highway Inspector,Inspecteur de la voirie
+47-4011,Home Inspector,Inspecteur en bâtiment
+47-4021,Elevator Mechanic,Mécanicien d'ascenseur
+47-4021,Escalator Installer,Installateur d'escaliers mécaniques
+47-4021,Hydraulic Elevator Constructor,Constructeur d'ascenseurs hydrauliques
+47-4031,Wire Fence Builder,Constructeur de clôture en fil de fer
+47-4031,Wood Fence Installer,Installateur de clôture en bois
+47-4041,Asbestos Abatement Worker,Travailleur de la réduction de l'amiante
+47-4041,Decontamination Worker,Travailleur en décontamination
+47-4041,Irradiated Fuel Handler,Manutentionnaire de combustible irradié
+47-4051,Road Patcher,Patcher routier
+47-4051,Road Sign Installer,Installateur de panneaux de signalisation routière
+47-4061,Rail Maintenance Worker,Préposé à l'entretien ferroviaire
+47-4061,Track Repairer,Réparateur de chenilles
+47-4061,Track Surfacing Machine Operator,Opérateur de machine de surfaçage de voie
+47-4071,Electric Sewer Cleaning Machine Operator,Opérateur de machine de nettoyage d'égout électrique
+47-4071,Septic Tank Cleaner,Nettoyeur de fosse septique
+47-4071,Sewage Screen Operator,Opérateur de crible d'égout
+47-4091,Concrete Pavement Installer,Installateur de chaussée en béton
+47-4091,Paving Stone Installer,Installateur de pavés
+47-4099,Aluminum Pool Installer,Installateur de piscine en aluminium
+47-4099,Waterproofer,Imperméabilisant
+47-5011,Fracturing Derrick Operator,Opérateur Derrick de fracturation
+47-5011,Rotary Derrick Operator,Opérateur Rotary Derrick
+47-5011,Well Service Derrick Worker,Service de puits Derrick Worker
+47-5012,Fracturing Rotary Drill Operator,Opérateur de forage rotatif à fracturation
+47-5012,Oil Well Cable Tool Operator,Opérateur d'outils de câble de puits de pétrole
+47-5012,Oil Well Driller,Foreur de puits de pétrole
+47-5013,Well Servicing Rig Operator,Opérateur de plate-forme d'entretien de puits
+47-5022,Mining Bulldozer Operator,Opérateur de bulldozer minier
+47-5022,Mining Shovel Operator,Opérateur de pelle minière
+47-5023,Blast Hole Driller,Perceuse de trous de sablage
+47-5023,Churn Driller,Foreuse à baratte
+47-5023,Earth Auger Operator,Opérateur de tarière de terre
+47-5032,Blast Setter,Blast Setter
+47-5032,Dynamiter,Dynamiteur
+47-5032,Explosive Technician,Technicien en explosifs
+47-5032,Mining Powder Crew Worker,Travailleur de l'équipe de poudre minière
+47-5041,Continuous Mining Machine Lode Miner,Machine d'extraction continue Lode Miner
+47-5041,Continuous Mining Machine Miner,Mineur de machine d'exploitation minière continue
+47-5041,Self-Propelled Mining Machine Operator,Opérateur de machine minière automotrice
+47-5043,Roof Bolting Coal Miner,Mineur de charbon de boulonnage de toit
+47-5043,Underground Bolting Machine Operator,Opérateur de machine de boulonnage souterraine
+47-5043,Underground Roof Bolter,Boulon de toit souterrain
+47-5044,Coal Hauler Operator,Opérateur de transporteur de charbon
+47-5044,Coke Loader,Chargeur de coke
+47-5044,Mine Shuttle Car Operator,Opérateur de voiture de navette de mine
+47-5044,Mobile Bridge Conveyor Operator,Opérateur de convoyeur de pont mobile
+47-5049,Long Wall Operator,Opérateur de mur long
+47-5049,Long Wall Shearer,Haveuse à longue paroi
+47-5049,Rock Dust Sprayer,Pulvérisateur de poussière de roche
+47-5049,Underground Jumbo Driller,Foreur Jumbo souterrain
+47-5051,Quarry Chop Saw Operator,Opérateur de scie à découper de carrière
+47-5051,Quarry Plug and Feather Driller,Bouchon de carrière et foreur de plumes
+47-5051,Sandstone Splitter,Séparateur de grès
+47-5071,Gas Floorhand,Plancher de gaz
+47-5071,Oil Field Roustabout,Champ pétrolifère de Roustabout
+47-5071,Oil Rig Roughneck,Plate-forme pétrolière Roughneck
+47-5081,Blaster Helper,Blaster Helper
+47-5081,Mining Helper,Aide minière
+47-5081,Roof Bolter Helper,Aide boulonneur de toit
+47-5099,Mine Milling Worker,Ouvrier en meunier
+47-5099,Mine Tailings Worker,Travailleur des résidus miniers
+49-1011,Automobile Body Repair Supervisor,Superviseur de la réparation de carrosserie automobile
+49-1011,Fleet Maintenance Supervisor,Superviseur de l'entretien de la flotte
+49-1011,Railroad Car Repair Supervisor,Superviseur de la réparation de wagons de chemin de fer
+49-2011,ATM Servicer,Service de guichet automatique
+49-2011,Cash Register Servicer,Service de caisse enregistreuse
+49-2011,Data Processing Equipment Repairer,Réparateur d'équipement de traitement de données
+49-2021,Radio Frequency Technician,Technicien en radiofréquence
+49-2021,Radio Mechanic,Mécanicien radio
+49-2021,Two-Way Radio Technician,Technicien radio bidirectionnel
+49-2022,Fiber Optic Central Office Installer,Installateur de bureau central à fibre optique
+49-2022,Private Branch Exchange (PBX ) Installer and Repairer,Programme d'installation et réparateur PBX (Private Branch Exchange)
+49-2091,Aircraft Electrician,Électricien d'aéronef
+49-2091,Aircraft Instrument Mechanic,Mécanicien d'instruments d'aéronef
+49-2091,Automatic Pilot Mechanic,Mécanicien pilote automatique
+49-2092,Armature Rewinder,Enrouleur d'armature
+49-2092,Electrical Parts Reconditioner,Reconditionneur de pièces électriques
+49-2093,Locomotive Electrician,Électricien de locomotive
+49-2093,Marine Electronics Repairer,Réparateur d'électronique marine
+49-2094,Industrial Robotics Mechanic,Mécanicien en robotique industrielle
+49-2094,Missile Pad Mechanic,Mécanicien de pad de missile
+49-2094,Public Address System Mechanic,Mécanicien de système de sonorisation
+49-2095,Power Transformer Repairer,Réparateur de transformateurs de puissance
+49-2095,Powerhouse Electrician,Électricien puissant
+49-2095,Relay Technician,Technicien relais
+49-2096,Automotive Electrician,Électricien automobile
+49-2096,Car Alarm Installer,Installateur d'alarme de voiture
+49-2096,Car Stereo Installer,Installateur d'autoradio
+49-2096,GPS Car Navigation Installer,Installateur de navigation de voiture GPS
+49-2097,Electronic Musical Instrument Repairer,Réparateur d'instruments de musique électroniques
+49-2097,Home Theater Installer,Installateur home cinéma
+49-2097,Satellite Dish Installer,Installateur d'antennes paraboliques
+49-2097,Wireless Internet Installer,Installateur Internet sans fil
+49-2098,Burglar Alarm Installer,Installateur d'alarme antivol
+49-2098,Fire Alarm Installer,Installateur d'alarme incendie
+49-2098,Home Security Alarm Installer,Accueil Installateur d'alarme de sécurité
+49-3011,Aircraft Engine Specialist,Spécialiste des moteurs d'avion
+49-3011,Airframe Mechanic,Mécanicien de cellule
+49-3011,Flight Test Mechanic,Mécanicien d'essais en vol
+49-3011,Helicopter Engine Mechanic,Mécanicien de moteur d'hélicoptère
+49-3021,Auto Body Customizer,Personnalisateur de carrosserie automatique
+49-3021,Auto Bumper Straightener,Redresseur de pare-chocs automatique
+49-3021,Truck Body Repairer,Réparateur de carrosserie de camion
+49-3022,Auto Glass Mechanic,Mécanicien de verre automobile
+49-3022,Automotive Glazier,Vitrier automobile
+49-3022,Windshield Installer,Installateur de pare-brise
+49-3023,Auto Transmission Specialist,Spécialiste de la transmission automatique
+49-3023,Automotive Brake Technician,Technicien en freins automobiles
+49-3023,Automotive Fuel Injection Servicer,Service d'injection de carburant automobile
+49-3023,Hybrid Car Mechanic,Mécanicien de voiture hybride
+49-3031,Biodiesel Engine Specialist,Spécialiste des moteurs biodiesel
+49-3031,Marine Diesel Technician,Technicien diesel marin
+49-3031,School Bus Mechanic,Mécanicien d'autobus scolaires
+49-3031,Tractor Trailer Mechanic,Mécanicien de semi-remorque
+49-3041,Combine Mechanic,Mécanicien de moissonneuse-batt
+49-3041,Dairy Equipment Repairer,Réparateur d'équipement laitier
+49-3041,Irrigation Equipment Mechanic,Mécanicien d'équipement d'irrigation
+49-3042,Bulldozer Mechanic,Mécanicien bulldozer
+49-3042,Construction Equipment Mechanic,Mécanicien d'équipement de construction
+49-3042,Forklift Mechanic,Mécanicien de chariot élévateur
+49-3043,Mine Car Mechanic,Mécanicien de voitures de mine
+49-3043,Streetcar Repairer,Réparateur de tramway
+49-3043,Subway Car Repairer,Réparateur de voitures Subway
+49-3043,Trolley Car Overhauler,Révision de chariot
+49-3051,Certified Marine Mechanic,Mécanicien maritime certifié
+49-3051,Outboard Motor Mechanic,Mécanicien de moteur hors-bord
+49-3052,All Terrain Vehicle Technician,Technicien de véhicule tout terrain
+49-3052,Motor Scooter Mechanic,Mécanicien de scooter à moteur
+49-3052,Motorcycle Service Technician,Technicien d'entretien de moto
+49-3053,Golf Cart Mechanic,Mécanicien de voiturette de golf
+49-3053,Lawn Mower Repairer,Réparateur de tondeuse à gazon
+49-3053,Mobility Scooter Repairer,Réparateur de scooters de mobilité
+49-3053,Power Saw Mechanic,Mécanicien de scie électrique
+49-3091,Bicycle Mechanic,Mécanicien de vélo
+49-3091,Bicycle Service Technician,Technicien d'entretien de vélos
+49-3092,Recreational Vehicle (RV) Repairer,Réparateur de véhicules récréatifs (VR)
+49-3092,RV Mechanic,Mécanicien de VR
+49-3093,Tire Balancer,Équilibreur de pneus
+49-3093,Tire Fixer,Fixateur de pneus
+49-9011,Automatic Door Mechanic,Mécanicien de porte automatique
+49-9012,Air Valve Mechanic,Mécanicien de soupapes d'air
+49-9012,Gas Meter Installer,Installateur de compteurs de gaz
+49-9012,Thermostat Repairer,Réparateur de thermostat
+49-9021,Gas Furnace Installer,Installateur de fournaise à gaz
+49-9021,Heating,Chauffage
+49-9021,Ventilation,Ventilation
+49-9021,and Air Conditioning (HVAC) Mechanic,et mécanicien de climatisation (CVC)
+49-9021,Oil Burner Repairer,Réparateur de brûleurs à huile
+49-9031,Vacuum Cleaner Repairer,Réparateur d'aspirateur
+49-9031,Washing Machine Installer,Installateur de machine à laver
+49-9031,Window Air Conditioner Installer,Installateur de climatiseur de fenêtre
+49-9041,Boilerhouse Mechanic,Mécanicien de chaufferie
+49-9041,Foundry Equipment Mechanic,Mécanicien d'équipement de fonderie
+49-9041,Hydroelectric Machinery Mechanic,Mécanicien de machines hydroélectriques
+49-9043,Crane Oiler,Huileur de grue
+49-9044,Machinery Dismantler,Démonteur de machines
+49-9044,Maintenance Millwright,Mécanicien de chantier d'entretien
+49-9051,Electric Powerline Examiner,Examinateur de lignes électriques
+49-9051,Electric Utility Lineworker,Monteur de ligne des services publics d'électricité
+49-9051,Electrical High Tension Tester,Testeur électrique haute tension
+49-9051,Electrical Lineworker,Monteur de ligne électrique
+49-9052,Cable Television Installer,Installateur de télévision par câble
+49-9052,FIOS Line Installer,Programme d'installation de la ligne FIOS
+49-9052,Telephone Cable Splicer,Épisseur de câble téléphonique
+49-9061,Aircraft Photographic Equipment Repairer,Réparateur d'équipement photographique d'aéronef
+49-9061,Camera Repairer,Réparateur de caméras
+49-9061,Photographic Equipment Technician,Technicien en équipement photographique
+49-9062,Biomedical Equipment Technician,Technicien en équipement biomédical
+49-9062,Radiology Equipment Servicer,Technicien d'équipement de radiologie
+49-9062,Surgical Instrument Mechanic,Mécanicien d'instruments chirurgicaux
+49-9063,Brass and Wind Instrument Repairer,Réparateur d'instruments à cuivres et à vent
+49-9063,Piano Tuner,Accordeur de piano
+49-9063,Violin Repairer,Réparateur de violon
+49-9064,Antique Clock Repairer,Réparateur d'horloges anciennes
+49-9064,Clock Repair Technician,Technicien en réparation d'horloge
+49-9064,Horologist,Horloger
+49-9069,Gyroscope Repairer,Réparateur de gyroscope
+49-9069,Telescope Repairer,Réparateur de télescopes
+49-9071,Building Maintenance Mechanic,Mécanicien d'entretien d'immeuble
+49-9071,Facilities Maintenance Worker,Préposé à l'entretien des installations
+49-9071,General Maintenance Worker,Préposé à l'entretien général
+49-9081,Wind Energy Technician,Technicien en énergie éolienne
+49-9081,Wind Turbine Mechanic,Mécanicien d'éoliennes
+49-9091,Arcade Games Mechanic,Mécanique de jeux d'arcade
+49-9091,Parking Meter Collector,Collecteur d'horodateurs
+49-9091,Slot Machine Mechanic,Mécanicien de machines à sous
+49-9091,Vending Machine Filler,Remplisseur de distributeur automatique
+49-9092,Marine Diver,Plongeur marin
+49-9092,Salvage Diver,Plongeur de sauvetage
+49-9092,Scuba Diver,Plongeur
+49-9092,Underwater Welder,Soudeur sous-marin
+49-9094,Key Maker,Fabricant de clés
+49-9094,Safe and Vault Installer,Installateur sécurisé et Vault
+49-9094,Safe and Vault Mechanic,Mécanicien de coffre-fort et de coffre-fort
+49-9095,Housetrailer Servicer,Hometrailer Servicer
+49-9095,Mobile Home Mechanic,Mécanicien de maison mobile
+49-9095,Mobile Home Servicer,Service de mobil-home
+49-9096,Acrobatic Rigger,Gréeur acrobatique
+49-9096,Crane Rigger,Gréeur de grue
+49-9096,Yard Rigger,Gréeur de chantier
+49-9097,Light Rail Signal Technician,Technicien en signalisation de train léger sur rail
+49-9097,Rail Signal Mechanic,Mécanicien de la signalisation ferroviaire
+49-9097,Third Rail Installer,Installateur de troisième rail
+49-9098,Automobile Body Repairer Helper,Aide au réparateur de carrosserie automobile
+49-9098,Locksmith Helper,Aide serrurier
+49-9098,Motorboat Mechanic Helper,Assistant mécanicien de bateau à moteur
+49-9099,Bowling Alley Mechanic,Mécanicien de bowling
+49-9099,Fabric Awning Repairer,Réparateur d'auvents en tissu
+49-9099,Fire Extinguisher Installer,Installateur d'extincteur
+49-9099,Gasoline Pump Installer,Installateur de pompe à essence
+49-9099,Gunsmith,Armurier
+49-9099,Parachute Repairer,Réparateur de parachutes
+49-9099,Sail Repairer,Réparateur de voiles
+51-1011,Assembly Line Supervisor,Superviseur de ligne d'assemblage
+51-1011,Machinist Supervisor,Superviseur machiniste
+51-1011,Printing Worker Supervisor,Superviseur des travailleurs de l'impression
+51-2011,Aircraft De-Icer Installer,Installateur de dégivreur d'aéronef
+51-2011,Aircraft Fuselage Framer,Encadreur de fuselage d'avion
+51-2011,Aircraft Riveter,Riveteur d'avion
+51-2021,Coil Builder,Constructeur de bobines
+51-2021,Motor Winder,Enrouleur de moteur
+51-2021,Wire Coiler,Bobineur de fil
+51-2022,Anode Builder,Constructeur d'anodes
+51-2022,Battery Builder,Constructeur de batterie
+51-2022,Circuit Board Assembler,Assembleur de carte de circuit imprimé
+51-2022,Electric Motor Controls Assembler,Assembleur de commandes de moteur électrique
+51-2023,Programmable Logic Controller Assembler,Assembleur de contrôleur logique programmable
+51-2023,Synchronous Motor Assembler,Assembleur de moteur synchrone
+51-2023,Vacuum Cleaner Assembler,Assembleur d'aspirateur
+51-2023,Vending Machine Assembler,Assembleur de distributeur automatique
+51-2031,Gas Turbine Assembler,Assembleur de turbine à gaz
+51-2031,Machine Builder,Constructeur de machines
+51-2031,Steam Turbine Assembler,Assembleur de turbine à vapeur
+51-2041,Mill Beam Fitter,Monteur de poutres de fraisage
+51-2041,Protector Plate Attacher,Attache de plaque de protection
+51-2051,Fiberglass Boat Builder,Constructeur de bateaux en fibre de verre
+51-2051,Fiberglass Ski Maker,Fabricant de skis en fibre de verre
+51-2061,Digital Watch Assembler,Assembleur de montres numériques
+51-2061,Electrical Timing Device Adjuster,Régulateur de dispositif de synchronisation électrique
+51-2061,Marine Chronometer Assembler,Assembleur de chronomètre de marine
+51-2092,Lead Team Assembler,Assembleur d'équipe principal
+51-2092,Team Assembly Line Machine Operator,Opérateur de machine de chaîne de montage d'équipe
+51-2092,Team Automobile Assembler,Assembleur automobile de l'équipe
+51-2099,Air Bag Builder,Constructeur de coussins gonflables
+51-2099,Crate Builder,Constructeur de caisses
+51-2099,Doll Maker,Fabricant de poupées
+51-3011,Bagel Maker,Fabricant de bagels
+51-3011,Bread Baker,Boulanger de pain
+51-3011,Pastry Finisher,Finisseur de pâtisserie
+51-3021,Butcher Apprentice,Apprenti boucher
+51-3021,Kosher Butcher,Boucher casher
+51-3021,Meat Carver,Sculpteur de viande
+51-3021,Meat Counter Worker,Travailleur de comptoir de viande
+51-3022,Fish Filleter,Remplisseur de poisson
+51-3022,Oyster Shucker,Huître Shucker
+51-3022,Poultry Eviscerator,Éviscérateur de volaille
+51-3022,Shrimp Picker,Cueilleur de crevettes
+51-3023,Halal Meat Packer,Emballeur de viande halal
+51-3023,Poultry Slaughterer,Abatteur de volailles
+51-3023,Shochet,Shochet
+51-3091,Coffee Roaster,Torréfacteur de café
+51-3091,Fish Smoker,Fumeur de poisson
+51-3091,Meat Curer,Carrossier
+51-3091,Smokehouse Worker,Travailleur de fumoir
+51-3092,Frozen Yogurt Maker,Yaourtière glacée
+51-3092,Honey Blender,Mélangeur de miel
+51-3092,Peanut Butter Maker,Fabricant de beurre d'arachide
+51-3093,Doughnut Machine Operator,Opérateur de machine à beignets
+51-3093,Dumpling Machine Operator,Opérateur de machine à boulettes
+51-3093,Potato Chip Frier,Chips Frier
+51-3099,Olive Pitter,Olive Pitter
+51-3099,Poultry Hanger,Cintre de volaille
+51-3099,Yeast Maker,Fabricant de levure
+51-4021,Wire Drawing Machine Tender,Appel d'offres pour machine à tréfiler
+51-4022,Cold Header Operator,Opérateur d'en-tête froid
+51-4022,Forging Roll Operator,Opérateur de rouleau de forgeage
+51-4022,Spike Machine Operator,Opérateur de machine Spike
+51-4022,Swager Operator,Opérateur Swager
+51-4023,Brass Roller,Rouleau en laiton
+51-4023,Forming Roll Operator,Opérateur de rouleau de formage
+51-4023,Plastic Straightening Roll Operator,Opérateur de rouleau de redressement en plastique
+51-4023,Steel Roller,Rouleau en acier
+51-4031,Crimping Machine Operator for Metal,Opérateur de machine à sertir pour le métal
+51-4031,Metal Punch Press Operator,Opérateur de presse à poinçonner en métal
+51-4031,Metal Slitter,Fente métallique
+51-4032,Boring Mill Operator for Metal,Opérateur de broyeur d'alésage pour métal
+51-4032,Drill Press Operator for Metal,Opérateur de perceuse pour métal
+51-4032,Radial Drill Press Operator for Plastic,Opérateur de perceuse radiale pour plastique
+51-4033,Aluminum Polisher,Polisseur d'aluminium
+51-4033,Jewel Bearing Facer,Facer de roulement de bijou
+51-4033,Metal Grinder,Broyeur de métal
+51-4033,Tool Polishing Machine Operator,Opérateur de machine de polissage d'outils
+51-4034,Engine Lathe Operator,Opérateur de tour moteur
+51-4034,Gear Cutter,Cutter à engrenages
+51-4034,Screw Machine Operator,Opérateur de machine à vis
+51-4035,Metal Milling Machine Operator,Opérateur de fraiseuse de métaux
+51-4035,Plastic Thread Milling Machine Setup Operator,Opérateur de configuration de la fraiseuse à filetage en plastique
+51-4041,Automotive Machinist,Machiniste automobile
+51-4041,Gear Machinist,Machiniste d'engrenages
+51-4041,Production Machinist,Machiniste de production
+51-4051,Electric Arc Furnace Operator,Opérateur de four à arc électrique
+51-4051,Smelter Operator,Opérateur de fonderie
+51-4052,Ingot Caster,Lingot Caster
+51-4052,Molten Iron Pourer,Verseur de fer fondu
+51-4052,Steel Pourer,Poureur d'acier
+51-4061,Metal Mockup Maker,Créateur de maquettes en métal
+51-4061,Plastic Jig and Fixture Builder,Gabarit en plastique et constructeur de luminaires
+51-4071,Airset Caster,Airset Caster
+51-4071,Green Sand Molder,Mouleur de sable vert
+51-4071,Wax Pattern Coater,Coater à motifs de cire
+51-4072,Aluminum Molding Machine Operator,Opérateur de machine de moulage d'aluminium
+51-4072,Blow Mold Operator,Opérateur de moule de soufflage
+51-4072,Plastic Cup Fabricating Machine Operator,Opérateur de machine de fabrication de gobelets en plastique
+51-4081,Combination Machine Tool Operator,Opérateur de machine-outil combiné
+51-4081,Multi-operation Forming Machine Setter,Régleur de machines de formage multi-opérations
+51-4111,Jig Bore Tool Maker,Fabricant d'outils jig Bore
+51-4111,Metal Die Finisher,Finisseur de matrice métallique
+51-4111,Metal Gauge Maker,Fabricant de jauges métalliques
+51-4121,Arc Welder,Soudeur à l'arc
+51-4121,Cutting Torch Operator,Opérateur de torche de coupe
+51-4121,Pipe Welder,Soudeur de tuyaux
+51-4121,Silver Solderer,Solderer d'argent
+51-4122,Electron Beam Welder Setter,Soudeur à faisceau d'électrons
+51-4122,Ultrasonic Welding Machine Operator,Opérateur de machine de soudage par ultrasons
+51-4191,Annealing Furnace Operator,Opérateur de four de recuit
+51-4191,Induction Machine Setter,Régleur de machine à induction
+51-4191,Wire Temperer,Tempéreur de fil
+51-4192,Shipfitter Apprentice,Apprenti monteur de navires
+51-4193,Anodizer,Anodizer
+51-4193,Galvanizer,Galvaniseur
+51-4193,Nickel Plater,Nickel Plater
+51-4194,Tool Grinding Machine Operator,Opérateur de rectifieuse d'outils
+51-4199,Electrical Discharge Machine Setup Operator,Opérateur de configuration de la machine à décharge électrique
+51-4199,Metal Rivet Machine Operator,Opérateur de machine à rivets métalliques
+51-4199,Tin Recovery Worker,Travailleur de récupération d'étain
+51-5111,Digital Proofing and Platemaker,Épreuvage numérique et fabricant de plaques
+51-5111,Photoengraver,Photograveur
+51-5111,Plate Mounter,Monteur de plaque
+51-5112,Gravure Press Operator,Opérateur de presse héliogravure
+51-5112,Offset Press Operator,Opérateur de presse offset
+51-5112,Web Press Operator,Opérateur de presse Web
+51-5113,Bookbinder,Relieur
+51-5113,Bookbinding Machine Operator,Opérateur de machine de reliure
+51-6011,Laundry Attendant,Préposé à la blanchisserie
+51-6011,Laundry Equipment Operator,Opérateur d'équipement de blanchisserie
+51-6011,Laundry Sorter,Trieur de linge
+51-6021,Clothes Ironer,Repasseur de vêtements
+51-6021,Pants Presser,Presse pantalon
+51-6021,Wool Presser,Presse à laine
+51-6031,Blind Stitch Machine Operator,Opérateur de machine à coudre aveugle
+51-6031,Button Sewing Machine Operator,Opérateur de machine à coudre à boutons
+51-6031,Custom T-Shirt Embroidery Machine Operator,Opérateur de machine à broder de t-shirt personnalisé
+51-6041,Cobbler,Cordonnier
+51-6041,Saddle Maker,Sellier
+51-6041,Shoe Repairer,Cordonnier
+51-6041,Shoemaker,Cordonnier
+51-6042,Arch Cushion Press Operator,Arch Cushion Press Opérateur
+51-6042,Lasting Machine Operator,Opérateur de machine durable
+51-6042,Rasper Machine Operator,Opérateur de machine Rasper
+51-6051,Hand Quilter,Quilter à main
+51-6051,Hand Stitcher,Couture à la main
+51-6052,Alterations Tailor,Modifications Tailor
+51-6052,Coat Maker,Fabricant de manteaux
+51-6052,Vest Maker,Fabricant de gilets
+51-6061,Cloth Dyer,Teinture en tissu
+51-6061,Rug Dyer,Teinturier de tapis
+51-6061,Skein Yarn Dyer,Teinturier en fil d'écheveau
+51-6062,Canvas Cutter,Coupe-toile
+51-6062,Industrial Fabric Cutter,Coupe-tissu industriel
+51-6062,Welt Trimming Machine Operator,Opérateur de machine de découpe Welt
+51-6063,Crochet Machine Operator,Opérateur de machine à crochet
+51-6063,Jacquard Loom Weaver,Jacquard Loom Tisserand
+51-6063,Looping Machine Operator,Opérateur de machine en boucle
+51-6064,Rope Machine Setter,Régleur de machines à cordes
+51-6064,Silk Winding Machine Operator,Opérateur de machine d'enroulement de soie
+51-6091,Fiber Machine Tender,Appel d'offres pour machine à fibre optique
+51-6091,Synthetic Filament Extruder,Extrudeuse de filament synthétique
+51-6092,Clothing Patternmaker,Modéliste de vêtements
+51-6092,Embroidery Patternmaker,Broderie Modéliste
+51-6092,Fabric Pattern Grader,Niveleuse à motifs de tissu
+51-6093,Aircraft Seat Upholsterer,Tapissier de siège d'avion
+51-6093,Furniture Upholsterer,Tapissier de meubles
+51-6099,Apparel Embroidery Digitizer,Numériseur de broderie de vêtements
+51-6099,Feltmaker,Feutre
+51-6099,Hat Blocking Machine Operator,Opérateur de machine de blocage de chapeau
+51-7011,Cabinet Builder,Constructeur d'armoires
+51-7011,Marquetry Worker,Ouvrier marqueterie
+51-7011,Wood Furniture Assembler,Assembleur de meubles en bois
+51-7021,Furniture Sander,Ponceuse à meubles
+51-7021,Piano Refinisher,Finition de piano
+51-7021,Wood Cabinet Finisher,Finisseur d'armoire en bois
+51-7031,Architectural Wood Model Maker,Modéliste architectural en bois
+51-7032,Wood Die Maker,Fabricant de matrices en bois
+51-7041,Buzzsaw Operator,Opérateur Buzzsaw
+51-7041,Circle Saw Operator,Opérateur de scie circulaire
+51-7041,Rip Saw Operator,Opérateur de scie à déchirer
+51-7041,Trim Saw Operator,Opérateur de scie de coupe
+51-7042,Wood Dowel Machine Operator,Opérateur de machine à chevilles à bois
+51-7042,Wood Lathe Operator,Opérateur de tour à bois
+51-7042,Wood Planer,Raboteuse à bois
+51-7099,Pole Framer,Encadreur de poteau
+51-7099,Wood Carver,Sculpteur sur bois
+51-7099,Wood Casket Assembler,Assembleur de cercueils en bois
+51-8011,Nuclear Control Room Operator,Opérateur de la salle de contrôle nucléaire
+51-8011,Nuclear Reactor Operator,Exploitant d'un réacteur nucléaire
+51-8011,Nuclear Station Operator,Exploitant de centrale nucléaire
+51-8012,Steam Plant Control Room Operator,Opérateur de la salle de contrôle de la centrale à vapeur
+51-8012,Substation Operator,Opérateur de sous-station
+51-8013,Hydroelectric Plant Operator,Exploitant de centrale hydroélectrique
+51-8013,Powerhouse Operator,Opérateur de centrale électrique
+51-8021,Boiler Engineer,Ingénieur chaudière
+51-8021,Boiler Room Operator,Opérateur de chaufferie
+51-8021,Heating,Chauffage
+51-8021,Ventilation,Ventilation
+51-8021,and Air Conditioning (HVAC) Mechanic Boiler Operator,et opérateur de chaudière mécanicien de climatisation (CVC)
+51-8031,Liquid Waste Treatment Plant Operator,Exploitant d'une usine de traitement des déchets liquides
+51-8031,Sewage Plant Operator,Opérateur de station d'épuration
+51-8091,Nitric Acid Plant Operator,Opérateur d'usine d'acide nitrique
+51-8091,Pharmaceutical Manufacturing Machine Operator,Opérateur de machine de fabrication pharmaceutique
+51-8092,Gas Controller,Contrôleur de gaz
+51-8092,Gas Plant Dispatcher,Répartiteur d'usine à gaz
+51-8093,Hydrotreater Operator,Opérateur d'hydrotraitement
+51-8093,Oil Pipeline Operator,Exploitant d'oléoduc
+51-8093,Oil Refiner,Raffineur de pétrole
+51-8099,Asphalt Plant Operator,Opérateur d'usine d'asphalte
+51-8099,Concrete Batch Plant Operator,Opérateur d'usine de béton par lots
+51-8099,Lime Filter Operator,Opérateur de filtre à chaux
+51-9011,Acid Purification Equipment Operator,Opérateur d'équipement de purification d'acide
+51-9011,Chemical Process Equipment Operator,Opérateur d'équipement de procédé chimique
+51-9012,Brewmaster,Maître brasseur
+51-9012,Fermentation Operator,Opérateur de fermentation
+51-9012,Pasteurizer,Pasteurisateur
+51-9021,Beveling and Edging Machine Operator,Opérateur de machine de biseautage et de bordure
+51-9021,Industrial Coffee Grinder,Moulin à café industriel
+51-9021,Marble and Granite Polisher,Polisseur de marbre et de granit
+51-9021,Pulverizer Operator,Opérateur de pulvérisateur
+51-9022,Hand Buffer,Tampon pour les mains
+51-9022,Hand Sander,Ponceuse à main
+51-9022,Jewelry Polisher,Polisseur de bijoux
+51-9022,Knife Grinder,Broyeur de couteaux
+51-9023,Asphalt Blender,Mélangeur d'asphalte
+51-9023,Clay Mixer,Mélangeur d'argile
+51-9023,Ink Blender,Mélangeur d'encre
+51-9031,Fur Trimmer,Tondeuse à fourrure
+51-9031,Hand Cloth Cutter,Coupe-tissu à main
+51-9032,Glass Cutting Machine Operator,Opérateur de machine de découpe de verre
+51-9032,Insulation Cutter,Coupe-isolant
+51-9032,Rubber Trimmer,Tondeuse en caoutchouc
+51-9041,Brick Maker,Fabricant de briques
+51-9041,Rubber Extrusion Operator,Opérateur d'extrusion de caoutchouc
+51-9041,Sugar Presser,Presse à sucre
+51-9051,Lime Kiln Operator,Opérateur de four à chaux
+51-9051,Lumber Kiln Operator,Opérateur de four à bois
+51-9051,Rubber Curer,Durcisseur de caoutchouc
+51-9061,Machined Parts Quality Inspector,Inspecteur qualité des pièces usinées
+51-9061,Petroleum Sampler,Échantillonneur de pétrole
+51-9071,Diamond Setter,Diamond Setter
+51-9071,Gemologist,Gemmologue
+51-9071,Goldsmith,Orfèvre
+51-9081,Crown and Bridge Technician,Technicien de couronne et de pont
+51-9081,Dental Ceramist,Céramiste dentaire
+51-9081,Orthodontic Technician,Technicien en orthodontie
+51-9082,Brace Maker,Fabricant d'orthèses
+51-9082,Manufacturing Orthopedic Technologist,Technologue orthopédique de fabrication
+51-9082,Orthotics Technician,Technicien en orthèses
+51-9082,Prosthetics Technician,Technicien en prothèses
+51-9083,Eyeglass Maker,Fabricant de lunettes
+51-9083,Lens Grinder,Broyeur de lentilles
+51-9083,Precision Lens Centerer and Edger,Centreur d'objectif de précision et Edger
+51-9111,Bottle Capper,Bouchon de bouteille
+51-9111,Keg Filler,Remplisseur de fût
+51-9111,Potato Chip Packaging Machine Operator,Opérateur de machine d'emballage de croustilles
+51-9123,Ceramic Painter,Peintre céramiste
+51-9123,China Decorator,Décorateur Chine
+51-9123,Sign Painter,Peintre d'enseignes
+51-9124,Auto Painter,Peintre automobile
+51-9124,Electrostatic Paint Operator,Opérateur de peinture électrostatique
+51-9124,Lacquer Spray Booth Operator,Opérateur de cabine de pulvérisation de laque
+51-9124,Railroad Car Painter,Peintre de wagons de chemin de fer
+51-9141,Electronic Semiconductor Processor,Processeur électronique à semi-conducteurs
+51-9141,Semiconductor Assembler,Assembleur de semi-conducteurs
+51-9141,Wafer Fabricator,Fabricant de plaquettes
+51-9151,Digital Photo Printer,Imprimante photo numérique
+51-9151,Photo Lab Specialist,Spécialiste du laboratoire photo
+51-9151,Photo Retoucher,Retoucheur photo
+51-9161,Computer Numerically Controlled (CNC) Machinist,Machiniste à commande numérique par ordinateur (CNC)
+51-9161,Computer Numerically Controlled (CNC) Milling Machine Operator,Opérateur de fraiseuse à commande numérique par ordinateur (CNC)
+51-9161,Computer Numerically Controlled (CNC) Shot Peening Operator,Opérateur de grenaillage à commande numérique (CNC) par ordinateur
+51-9161,Jig Boring Machine Operator,Opérateur de la machine d'alésage Jig
+51-9161,Welding Robot Operator,Opérateur de robot de soudage
+51-9162,Computer Numerically Controlled (CNC) Programmer,Programmeur à commande numérique par ordinateur (CNC)
+51-9162,Numerical Control Programmer,Programmeur à commande numérique
+51-9162,Numerical Tool Programmer,Programmeur d'outils numériques
+51-9191,Glue Line Operator,Opérateur de ligne de colle
+51-9191,Glue Reel Operator,Opérateur de bobine de colle
+51-9191,Paper Gluing Operator,Opérateur de collage de papier
+51-9192,Acid Dipper,Dipper acide
+51-9192,Degreaser Operator,Opérateur de dégraissant
+51-9192,Immersion Metal Cleaner,Nettoyant pour métaux par immersion
+51-9193,Chiller Tender,Tender refroidisseur
+51-9193,Refrigerating Machine Operator,Opérateur de machine frigorifique
+51-9194,Glass Etcher,Graveur de verre
+51-9194,Metal Engraver,Graveur sur métal
+51-9195,Cigar Roller,Rouleau à cigares
+51-9195,Glass Blower,Souffleur de verre
+51-9195,Neon Tube Bender,Cintre à tube néon
+51-9196,Box Fabricator,Fabricant de boîtes
+51-9196,Carton Making Machine Operator,Opérateur de machine de fabrication de carton
+51-9196,Corrugator Operator,Opérateur d'ondulation
+51-9197,Auto Tire Recapper,Récapitulatif automatique des pneus
+51-9197,Retreader,Rechapeur
+51-9197,Tire Molder,Mouleur de pneus
+51-9198,Blending Tank Helper,Aide au réservoir de mélange
+51-9198,Commercial Baker Helper,Aide boulanger commercial
+51-9198,Welder Helper,Aide soudeur
+53-1041,Air Cargo Ground Crew Supervisor,Superviseur de l'équipage au sol du fret aérien
+53-1041,Air Cargo Ground Operations Supervisor,Superviseur des opérations au sol du fret aérien
+53-1041,Airport Ramp Supervisor,Superviseur de la rampe d'aéroport
+53-1042,Material Handling Crew Supervisor,Superviseur de l'équipe de manutention
+53-1042,Warehouse Supervisor,Superviseur d'entrepôt
+53-1043,Crane Crew Supervisor,Superviseur d'équipage de grue
+53-1043,Truck Driver Supervisor,Superviseur de camionneur
+53-1044,Chief Ship Steward,Intendant en chef des navires
+53-1044,Flight Service Manager,Gestionnaire de service de vol
+53-1049,Gas Station Supervisor,Superviseur de station-service
+53-2011,Airline Captain,Capitaine de compagnie aérienne
+53-2011,Airline Pilot In Command,Pilote de ligne aux commandes
+53-2011,Charter Pilot (Air Transport Pilot Certificate Required),Pilote nolisé (certificat de pilote de transport aérien requis)
+53-2011,Charter Pilot (Airline),Pilote charter (compagnie aérienne)
+53-2012,Aerial Crop Duster,Dépoussiéreur aérien
+53-2012,Charter Pilot (Commercial Pilot Certificate Required),Pilote affrété (certificat de pilote professionnel requis)
+53-2012,Flight Instructor (Commercial Pilots),Instructeur de vol (pilotes professionnels)
+53-2012,Helicopter Pilot,Pilote d'hélicoptère
+53-2021,Air Traffic Control Operator,Opérateur de contrôle de la circulation aérienne
+53-2021,Control Tower Operator,Opérateur de tour de contrôle
+53-2021,Enroute Controller,Contrôleur en route
+53-2022,Aviation Operations Specialist,Spécialiste des opérations aériennes
+53-2022,Flight Operations Coordinator,Coordonnatrice des opérations aériennes
+53-2031,Airline Flight Attendant,Agent de bord de la compagnie aérienne
+53-2031,Airplane Flight Attendant,Agent de bord d'avion
+53-3011,Emergency Medical Services (EMS) Driver,Chauffeur des services médicaux d'urgence (SMU)
+53-3031,Newspaper Delivery Driver,Livreur de journaux
+53-3031,Pizza Delivery Driver,Livreur de pizza
+53-3031,Route Salesperson,Vendeur d'itinéraire
+53-3032,Auto Carrier Driver,Conducteur de transporteur automatique
+53-3032,Cement Truck Driver,Chauffeur de camion de ciment
+53-3032,Dump Truck Driver,Chauffeur de camion à benne basculante
+53-3032,Garbage Truck Driver,Chauffeur de camion à ordures
+53-3033,Grocery Light Truck Driver,Chauffeur de camion léger d'épicerie
+53-3033,Parcel Truck Driver,Chauffeur de camion de colis
+53-3051,School Bus Operator,Opérateur d'autobus scolaires
+53-3051,Special Education Bus Driver,Chauffeur d'autobus pour l'éducation de l'enfance en difficulté
+53-3052,Motor Coach Bus Driver,Chauffeur d'autocar
+53-3052,Public Transit Bus Driver,Chauffeur d'autobus de transport en commun
+53-3053,Airport Shuttle Driver,Chauffeur de navette aéroport
+53-3053,Courtesy Van Driver,Avec l'aimable autorisation de Van Driver
+53-3053,Hotel Shuttle Driver,Chauffeur de navette de l'hôtel
+53-3053,Nonemergency Medical Transporter,Transporteur médical non urgent
+53-3054,Cab Driver,Chauffeur de taxi
+53-3054,Rideshare Cab Driver,Chauffeur de taxi de covoiturage
+53-3099,Ice-Resurfacing Machine Operators,Opérateurs de machines de resurfaçage de glace
+53-3099,Motorcycle Deliverer,Livreur de moto
+53-3099,Street Cleaning Equipment Operator,Opérateur d'équipement de nettoyage des rues
+53-4011,Railroad Engineer,Ingénieur ferroviaire
+53-4011,Train Engineer,Ingénieur de train
+53-4013,Coal Tram Driver,Conducteur de tramway à charbon
+53-4013,Railcar Switcher,Aiguilleur d'autorail
+53-4022,Diesel Locomotive Firer,Diesel Locomotive Firer
+53-4022,Dinkey Engine Firer,Dinkey Engine Firer
+53-4022,Railway Switch Operator,Opérateur d'aiguillage ferroviaire
+53-4022,Switch Coupler,Coupleur de commutation
+53-4022,Train Brake Operator,Opérateur de frein de train
+53-4031,Freight Conductor,Conducteur de fret
+53-4031,Yard Conductor,Conducteur de cour
+53-4041,Light Rail Transit Operator,Exploitant de train léger sur rail
+53-4041,Tram Operator,Opérateur de tramway
+53-4041,Trolley Car Operator,Opérateur de chariot
+53-4099,Railway Equipment Operator,Opérateur de matériel ferroviaire
+53-4099,Retarder Operator,Opérateur de ralentisseur
+53-4099,Transfer Table Operator,Opérateur de table de transfert
+53-5011,Deckhand,Matelot
+53-5011,Merchant Mariner,Marin marchand
+53-5021,Barge Captain,Capitaine de barge
+53-5021,First Mate,Premier compagnon
+53-5021,Harbor Pilot,Pilote de port
+53-5021,Port Captain,Capitaine de port
+53-5022,Launch Operator,Opérateur de lancement
+53-5022,Speedboat Operator,Opérateur de hors-bord
+53-5022,Water Taxi Operator,Opérateur de bateau-taxi
+53-5031,Barge Engineer,Ingénieur Barge
+53-5031,Ferry Engineer,Ingénieur Ferry
+53-5031,Tugboat Engineer,Ingénieur remorqueur
+53-6011,Lighthouse Keeper,Gardien de phare
+53-6011,Lock and Dam Operator,Opérateur d'écluse et de barrage
+53-6021,Parking Ramp Attendant,Préposé à la rampe de stationnement
+53-6021,Valet Parker,Valet Parker
+53-6031,Gas and Oil Servicer,Service de gaz et de pétrole
+53-6031,Gas Pump Attendant,Préposé à la pompe à essence
+53-6031,Service Station Attendant,Préposé à la station-service
+53-6032,Aircraft De-Icer,Dégivreur d'aéronefs
+53-6032,Aircraft Refueler,Ravitailleur d'aéronefs
+53-6032,Airplane Refueler,Ravitailleur d'avion
+53-6041,Highway Traffic Control Technician,Technicien en contrôle de la circulation routière
+53-6041,Traffic Signal Technician,Technicien en feux de circulation
+53-6041,Transportation Technician,Technicien en transport
+53-6051,Aircraft Inspector,Inspecteur d'aéronefs
+53-6051,Motor Vehicle Emissions Inspector,Inspecteur des émissions des véhicules automobiles
+53-6051,Railroad Car Inspector,Inspecteur de wagons de chemin de fer
+53-6061,Ship Steward,Intendant de navire
+53-6061,Train Attendant,Préposé au train
+53-6099,Rickshaw Driver,Conducteur de pousse-pousse
+53-7011,Conveyor Belt Operator,Opérateur de bande transporteuse
+53-7011,Grain Elevator Operator,Opérateur d'élévateur à grains
+53-7021,Boom Crane Operator,Opérateur de grue à flèche
+53-7021,Cherry Picker Operator,Opérateur Cherry Picker
+53-7021,Coal Tower Operator,Opérateur de tour de charbon
+53-7031,Dredger,Dragueur
+53-7041,Winch Derrick Operator,Opérateur de treuil Derrick
+53-7051,Forklift Operator,Opérateur de chariot élévateur
+53-7051,Stacker Operator,Opérateur d'empilage
+53-7061,Aircraft Cleaner,Nettoyeur d'aéronefs
+53-7061,Auto Detailer,Dessinateur automatique
+53-7061,Car Wash Attendant,Préposé au lavage de voiture
+53-7062,Cargo Handler,Manutentionnaire de fret
+53-7062,Wharf Laborer,Ouvrier de quai
+53-7063,Hopper Filler,Remplisseuse de trémie
+53-7063,Spinning Doffer,Spinning Doffer
+53-7064,Egg Packer,Emballeur d'œufs
+53-7064,Gift Wrapper,Emballage cadeau
+53-7064,Grocery Store Bagger,Ensacheuse d'épicerie
+53-7065,Night Stocker,Stocker de nuit
+53-7065,Store Stocker,Stocker de magasin
+53-7065,Warehouse Stocker,Entrepôt Stocker
+53-7071,Butane Compressor Operator,Opérateur de compresseur de butane
+53-7071,Gas Cylinder Processor,Processeur de bouteilles de gaz
+53-7071,Liquid Natural Gas Plant Operator,Exploitant d'une usine de gaz naturel liquéfié
+53-7072,Brewery Pumper,Pompeur de brasserie
+53-7072,Fluid Pump Operator,Opérateur de pompe à fluide
+53-7073,Oil Well Pumper,Pompeur de puits de pétrole
+53-7081,Garbage Collector,Éboueur
+53-7081,Recyclable Materials Collector,Collecteur de matériaux recyclables
+53-7081,Trash Collector,Collecteur de déchets
+53-7121,Barge Loader,Chargeur de barge
+53-7121,Rail Car Loader,Chargeur de wagons
+53-7121,Ship Unloader,Déchargeur de navire
+53-7199,Bulldozer Operator,Opérateur de bulldozer
+53-7199,Freight Elevator Operator,Opérateur de monte-charge
+53-7199,Shovel Operator,Opérateur de pelle
+55-1011,Air Battle Manager,Gestionnaire de bataille aérienne
+55-1011,Airdrop Systems Technician,Technicien en systèmes de largage
+55-1011,Special Project Airborne Electronics Evaluator,Évaluateur de projets spéciaux Airborne Electronics
+55-1012,Catapult And Arresting Gear Officer,Catapulte et officier d'équipement d'arrestation
+55-1012,Flight Deck Officer,Officier de poste de pilotage
+55-1012,Landing Signal Officer,Officier des signaux d'atterrissage
+55-1013,Assault Amphibious Vehicle (AAV) Officer,Officier de véhicule amphibie d'assaut (AAV)
+55-1013,Cavalry Officer,Officier de cavalerie
+55-1013,Tank Officer,Officier de char
+55-1014,Air Defense Artillery Officer,Officier d'artillerie de défense aérienne
+55-1014,Naval Surface Fire Support Planner,Planificateur d'appui-feu naval de surface
+55-1014,Targeting Acquisition Officer,Responsable de l'acquisition de ciblage
+55-1015,Combat Information Center Officer,Officier du Centre d'information de combat
+55-1015,Command And Control Officer,Officier de commandement et de contrôle
+55-1015,Command And Control Systems Integrator,Intégrateur de systèmes de commande et de contrôle
+55-1016,Infantry Weapons Officer,Officier d'armes d'infanterie
+55-1017,Parachute/Combatant Diver Officer,Officier plongeur parachutiste/combattant
+55-1017,Sea-Air-Land Officer,Officier mer-air-terre
+55-1019,Chemical,Chimique
+55-1019,Biological,Biologique
+55-1019,Radiological,Radiologique
+55-1019,And Nuclear (CBRN) Officer,Et officier nucléaire (CBRN)
+55-1019,Joint Strategic Plans And Policy Officer,Agent conjoint des plans stratégiques et des politiques
+55-1019,Special Technical Operations Officer,Agent des opérations techniques spéciales
+55-2011,Airborne Mission Systems Superintendent,Surintendant des systèmes de mission aéroportés
+55-2011,In-Flight Refueling Manager,Gestionnaire de ravitaillement en vol
+55-2012,Armor Senior Sergeant,Sergent-chef de l'Armure
+55-2012,Field Artillery Senior Sergeant,Sergent-chef de l'artillerie de campagne
+55-2012,Infantry Unit Leader,Chef d'unité d'infanterie
+55-2013,Command Post Superintendent,Surintendant du poste de commandement
+55-2013,Intelligence Chief,Chef du renseignement
+55-2013,Surface Ship USW Supervisor,Superviseur des usw de navires de surface
+55-3011,Airborne And Air Delivery Specialist,Spécialiste de la livraison aéroportée et aérienne
+55-3011,Aviation Electronic Warfare Operator,Opérateur de guerre électronique aéronautique
+55-3011,In-Flight Refueling Craftsman,Artisan de ravitaillement en vol
+55-3012,Aircraft Launch And Recovery Equipment Maintenance Technician,Technicien de maintenance de l'équipement de lancement et de récupération d'aéronefs
+55-3012,C-13 Catapult Operator,Opérateur de catapulte C-13
+55-3012,Expeditionary Airfield Systems Technician,Technicien en systèmes d'aérodrome expéditionnaire
+55-3013,Assault Boat Coxswain,Bateau d'assaut Coxswain
+55-3013,Bradley Linebacker Crewmember,Bradley Linebacker Membre d'équipage
+55-3013,M1A1 Tank Crewman,M1A1 Matelot d'équipage de char
+55-3014,Air And Missile Defense (AMD) Crewmember,Membre d'équipage de la défense aérienne et antimissile (AMD)
+55-3014,Field Artillery Fire Control Man,Homme de contrôle de tir d'artillerie de campagne
+55-3014,Gunner's Mate,Compagnon d'artillerie
+55-3015,Air Defense Command,Commandement de la défense aérienne
+55-3015,Control,Contrôle
+55-3015,Communications,Communications
+55-3015,Computers And Intelligence Tactical Operations Center,Centre d'opérations tactiques informatiques et de renseignement
+55-3015,C2 Tactical Analysis Technician,C2 Technicien en analyse tactique
+55-3015,Command Post Craftsman,Artisan du poste de commandement
+55-3016,Infantryman,Fantassin
+55-3016,Machine Gunner,Mitrailleur
+55-3016,Mortarman,Mortier
+55-3018,Combatant Swimmer (SEAL),Nageur combattant (SEAL)
+55-3018,Pararescue Craftsman,Parasauveteur Artisan
+55-3018,Special Forces Weapons Sergeant,Sergent d'armes des forces spéciales
+55-3019,Electronic Warfare Specialist,Spécialiste de la guerre électronique
+55-3019,Landing Support Specialist,Spécialiste de l'assistance à l'atterrissage
+55-3019,Psychological Operations Specialist,Spécialiste des opérations psychologiques
